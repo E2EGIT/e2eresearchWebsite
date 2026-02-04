@@ -1,0 +1,105 @@
+.service-con {
+  padding: 0 24px;
+  display: flex;
+  columns: 10px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  @include breakpoint(mobile) {
+    padding: 0 15px;
+  }
+}
+.service-mobile-sec {
+  // padding-left: 20px;
+  // height: 100px;
+  .slick-track {
+    display: flex;
+    gap: 1rem;
+    @include breakpoint(mobile) {
+      margin-left: -0.4rem;
+    }
+  }
+
+  .productivity-prev {
+    left: 48px;
+    top: 35px;
+    z-index: 1;
+    width: auto;
+    height: auto;
+    @media (min-width: 320px) and (max-width: 1024px) {
+      left: 6px;
+      top: 50%;
+    }
+    @include breakpoint(mobile) {
+      left: -6px;
+    }
+  }
+  .productivity-next {
+    right: 48px;
+    top: 60%;
+    width: auto;
+    height: auto;
+    @media (min-width: 320px) and (max-width: 1024px) {
+      right: 6px;
+      top: 50%;
+    }
+    @include breakpoint(mobile) {
+      right: -6px;
+    }
+  }
+  .productivity-prev,
+  .productivity-next {
+    width: 2.176rem;
+    height: 4.189rem;
+
+    @media (min-width: 320px) and (max-width: 1024px) {
+      width: 1.176rem;
+      height: 3.189rem;
+    }
+  }
+  .category-card {
+    @include breakpoint(common_device) {
+      margin: auto;
+    }
+  }
+}
+
+.service-mobile-sec {
+  display: none;
+  @media (min-width: 320px) and (max-width: 1024px) {
+    margin: auto;
+    display: block;
+    width: 94%;
+  }
+  @include breakpoint(mobile) {
+    width: 85% !important;
+  }
+  .category-card {
+    h6 {
+      // font-size: 0.87rem;
+      height: 30px;
+      text-align: center;
+    }
+    > svg {
+      width: 4.8rem;
+      @include breakpoint(mobile) {
+        width: 4rem;
+      }
+    }
+  }
+}
+// .service-desktop-sec {
+//   // display: block;
+//   @media (min-width: 320px) and (max-width: 769px) {
+//     display: none;
+//   }
+// }
+
+.testi-carousel-btn-active {
+  svg {
+    path {
+      fill: $primary-color;
+    }
+  }
+  // stroke-width: 2px;
+  opacity: 1;
+}

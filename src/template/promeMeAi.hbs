@@ -1,0 +1,188 @@
+<html>
+  <head>
+    <title>Email Template</title>
+  </head>
+  <body>
+    <table
+      width="600"
+      align="center"
+      cellpadding="0"
+      cellspacing="0"
+      style="border: 0; box-sizing: border-box;"
+    >
+      <tr>
+        <td style="height: 150px; box-sizing: border-box;">
+           <img
+            style="width: 250px; height: 150px;"
+            src="https://e2eresearch.com/email/topLeftBanner.png"
+            alt=""
+          />
+        </td>
+        <td
+          valign="top"
+          style=' text-align: right;box-sizing: border-box;padding-right: 2px;marigin-top:"20px"'
+        >
+          <img
+            style="margin-top: 30px;"
+            src="https://e2eresearch.com/email/e2e_logo.png"
+            alt=""
+          />
+        </td>
+
+      </tr>
+      <tr>
+        <td
+          style=" padding-left: 30px ;padding-bottom: 5px; box-sizing: border-box; font-family: Arial, Helvetica, sans-serif;font-size: 14px; "  colspan="2"
+        >
+          Dear Admin,
+        </td>
+
+      </tr>
+      <tr>
+        <td
+          style=" padding-left: 30px ;box-sizing: border-box;  font-family: Arial, Helvetica, sans-serif; font-size: 14px;" colspan="2"
+        >
+          A new Enquiry has been received with the following Regards
+        </td>
+      </tr>
+      <tr>
+        <td
+          style=" padding-left: 30px; padding-top: 30px ;padding-bottom: 15px ;box-sizing: border-box; font-family: Arial, Helvetica, sans-serif;font-size: 14px "  colspan="2"
+        >
+          <table
+            cellpadding="0"
+            cellspacing="0"
+            style="border: 0; box-sizing: border-box;"
+        
+          >
+            <tr>
+              <td style="font-weight: bold;  padding-right: 10px;">
+                Name:
+              </td>
+              <td>
+                {{name}}
+              </td>
+            </tr>
+          </table>
+
+        </td>
+
+      </tr>
+
+    {{#if phone}}
+
+       <tr>
+        <td
+          style=" padding-left: 30px;  ;padding-bottom: 15px ;box-sizing: border-box; font-family: Arial, Helvetica, sans-serif;font-size: 14px "  colspan="2"
+        >
+          <table
+            cellpadding="0"
+            cellspacing="0"
+            style="border: 0; box-sizing: border-box;"
+        
+          >
+            <tr>
+              <td style="font-weight: bold; padding-right: 10px;">
+                Phone No:
+              </td>
+              <td>
+                {{phone}}
+              </td>
+            </tr>
+          </table>
+
+        </td>
+
+      </tr>
+      {{/if}}
+    
+      <tr>
+        <td
+          style=" padding-left: 30px;  ;padding-bottom: 15px ;box-sizing: border-box; font-family: Arial, Helvetica, sans-serif;font-size: 14px "  colspan="2"
+        >
+          <table
+            cellpadding="0"
+            cellspacing="0"
+            style="border: 0; box-sizing: border-box;"
+        
+          >
+            <tr>
+              <td style="font-weight: bold; padding-right: 10px;">
+                Email:
+              </td>
+              <td>
+                {{email}}
+              </td>
+            </tr>
+          </table>
+
+        </td>
+
+      </tr>
+  
+   
+    {{#if company}}
+      <tr>
+        <td
+          style=" padding-left: 30px;  ;padding-bottom: 15px ;box-sizing: border-box; font-family: Arial, Helvetica, sans-serif;font-size: 14px "  colspan="2"
+        >
+          <table
+            cellpadding="0"
+            cellspacing="0"
+            style="border: 0; box-sizing: border-box;"
+        
+          >
+            <tr>
+              <td style="font-weight: bold; padding-right: 10px;">
+                Company:
+              </td>
+              <td>
+                {{company}}
+              </td>
+            </tr>
+          </table>
+
+        </td>
+
+      </tr>
+      {{/if}}
+
+      <tr>
+        <td
+          style="vertical-align: bottom;
+            padding-bottom: 40px; padding-left: 30px; font-family: Arial, Helvetica, sans-serif; line-height: 1.5; font-size: 14px; "
+        >
+          <table
+            cellpadding="0"
+            cellspacing="0"
+            style="border: 0; box-sizing: border-box;"
+        
+          >
+            <tr>
+              <td style="font-weight: bold;">
+                Best Regards,
+              </td>
+
+            </tr>
+            <tr>
+              <td>
+                E2E Research Services Pvt. Ltd
+              </td>
+            </tr>
+          </table>
+
+        </td>
+
+        <td style="height: 150px; box-sizing: border-box;">
+            <img
+            style="width: 250px; height: 150px;"
+            src="https://e2eresearch.com/email/bottomRightBanner.png"
+            alt=""
+          />
+        </td>
+
+      </tr>
+
+    </table>
+  </body>
+</html>

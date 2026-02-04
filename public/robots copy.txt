@@ -1,0 +1,12 @@
+# *
+User-agent: *
+Allow: /public/
+
+# Host
+Host:https://e2eresearch.com/
+
+
+User-agent: Googlebot
+
+# Sitemaps
+Sitemap:https://e2eresearch.com/sitemap.xml

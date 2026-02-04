@@ -1,0 +1,185 @@
+<svg id="raven_slider1" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 920 480">
+  <g id="monthly-average-temperat">
+    <rect id="Rectangle_26524" data-name="Rectangle 26524" width="913.515" height="480" transform="translate(6.485)" fill="#fff"/>
+    <g id="Group_48315" data-name="Group 48315" transform="translate(120.883 100.406)">
+      <path id="Path_45565" data-name="Path 45565" d="M112.5,61V440.594" transform="translate(-41.722 -61)" fill="none" stroke="#e6e6e6" stroke-width="0"/>
+      <path id="Path_45566" data-name="Path 45566" d="M155.5,61V440.594" transform="translate(-13.943 -61)" fill="none" stroke="#e6e6e6" stroke-width="0"/>
+      <path id="Path_45567" data-name="Path 45567" d="M199.5,61V440.594" transform="translate(-1.099 -61)" fill="none" stroke="#e6e6e6" stroke-width="0"/>
+      <path id="Path_45568" data-name="Path 45568" d="M242.5,61V440.594" transform="translate(21.526 -61)" fill="none" stroke="#e6e6e6" stroke-width="0"/>
+      <path id="Path_45569" data-name="Path 45569" d="M286.5,61V440.594" transform="translate(44.678 -61)" fill="none" stroke="#e6e6e6" stroke-width="0"/>
+      <path id="Path_45570" data-name="Path 45570" d="M329.5,61V440.594" transform="translate(67.303 -61)" fill="none" stroke="#e6e6e6" stroke-width="0"/>
+      <path id="Path_45571" data-name="Path 45571" d="M372.5,61V440.594" transform="translate(89.928 -61)" fill="none" stroke="#e6e6e6" stroke-width="0"/>
+      <path id="Path_45572" data-name="Path 45572" d="M416.5,61V440.594" transform="translate(113.079 -61)" fill="none" stroke="#e6e6e6" stroke-width="0"/>
+      <path id="Path_45573" data-name="Path 45573" d="M459.5,61V440.594" transform="translate(135.704 -61)" fill="none" stroke="#e6e6e6" stroke-width="0"/>
+      <path id="Path_45574" data-name="Path 45574" d="M503.5,61V440.594" transform="translate(148.429 -61)" fill="none" stroke="#e6e6e6" stroke-width="0"/>
+      <path id="Path_45575" data-name="Path 45575" d="M546.5,61V440.594" transform="translate(176.207 -61)" fill="none" stroke="#e6e6e6" stroke-width="0"/>
+      <path id="Path_45576" data-name="Path 45576" d="M590.5,61V397.631" transform="translate(204.632 -61)" fill="none" stroke="#e6e6e6" stroke-width="0"/>
+      <path id="Path_45577" data-name="Path 45577" d="M69.5,61V397.631" transform="translate(-69.5 -61)" fill="none" stroke="#e6e6e6" stroke-width="0"/>
+    </g>
+    <path id="Path_45579" data-name="Path 45579" d="M69,229.5H864.132" transform="translate(51.06 42)" fill="none" stroke="#e6e6e6" stroke-width="1"/>
+    <path id="Path_45580" data-name="Path 45580" d="M69,145.5H864.132" transform="translate(51.06 41)" fill="none" stroke="#e6e6e6" stroke-width="1"/>
+    <path id="Path_45581" data-name="Path 45581" d="M69,61.5H864.132" transform="translate(51.06 40)" fill="none" stroke="#e6e6e6" stroke-width="1"/>
+    <g id="Group_48317" data-name="Group 48317" transform="translate(120.06 355.999)">
+      <path id="Path_45582" data-name="Path 45582" d="M69,313.5H864.132" transform="translate(-69 -313.5)" fill="none" stroke="#e6e6e6" stroke-width="1"/>
+    </g>
+    <g id="Group_48318" data-name="Group 48318" transform="translate(0 100.406)">
+      <text id="Satisfaction_Score" data-name="Satisfaction Score" transform="translate(25 149.467) rotate(-90)" fill="#404040" font-size="24" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-109.02" y="0">Satisfaction Score</tspan></text>
+      <path id="Path_45583" data-name="Path 45583" d="M69,61V422.336" transform="translate(51.06 -61)" fill="none" stroke="#333" stroke-width="0"/>
+    </g>
+    <g id="Group_48323" data-name="Group 48323" transform="translate(104.343 120)">
+      <g id="Group_58427" data-name="Group 58427" transform="translate(0 40)">
+        <path id="Path_45596" data-name="Path 45596" d="M-20.6,259.483s41.789-50,70.577-79c26.311-10,35.6-15,69.648-26,27.859-11.333,35.6-8.333,68.72-22.9,34.979-6.766,21.05,1.234,71.506-9.432,39.932-10,23.525-2,69.648-15.667,28.788-2.333,38.384-.667,70.577-7,20.739-4.667,32.5-8,67.791-16,24.764,6.333,42.1,9.667,70.577,16,28.788,15.333,37.765,17,69.648,31,31.265,14.667,32.193,9,67.791,24,33.431,14,73.363,24,73.363,24" transform="translate(28.956 -75.484)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <g id="Ellipse_11252" data-name="Ellipse 11252" transform="translate(0 176)" stroke="#000" stroke-width="1">
+          <ellipse cx="8.822" cy="9.5" rx="8.822" ry="9.5" stroke="none"/>
+          <ellipse cx="8.822" cy="9.5" rx="8.322" ry="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11253" data-name="Ellipse 11253" transform="translate(71.506 97)" stroke="#000" stroke-width="1">
+          <ellipse cx="8.822" cy="9.5" rx="8.822" ry="9.5" stroke="none"/>
+          <ellipse cx="8.822" cy="9.5" rx="8.322" ry="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11254" data-name="Ellipse 11254" transform="translate(139.297 70)" stroke="#000" stroke-width="1">
+          <ellipse cx="8.822" cy="9.5" rx="8.822" ry="9.5" stroke="none"/>
+          <ellipse cx="8.822" cy="9.5" rx="8.322" ry="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11255" data-name="Ellipse 11255" transform="translate(207.087 47)" stroke="#000" stroke-width="1">
+          <ellipse cx="8.822" cy="9.5" rx="8.822" ry="9.5" stroke="none"/>
+          <ellipse cx="8.822" cy="9.5" rx="8.322" ry="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11256" data-name="Ellipse 11256" transform="translate(279.522 38)" stroke="#000" stroke-width="1">
+          <ellipse cx="8.822" cy="9.5" rx="8.822" ry="9.5" stroke="none"/>
+          <ellipse cx="8.822" cy="9.5" rx="8.322" ry="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11257" data-name="Ellipse 11257" transform="translate(348.241 23)" stroke="#000" stroke-width="1">
+          <ellipse cx="8.822" cy="9.5" rx="8.822" ry="9.5" stroke="none"/>
+          <ellipse cx="8.822" cy="9.5" rx="8.322" ry="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11258" data-name="Ellipse 11258" transform="translate(417.89 14)" stroke="#000" stroke-width="1">
+          <ellipse cx="8.822" cy="9.5" rx="8.822" ry="9.5" stroke="none"/>
+          <ellipse cx="8.822" cy="9.5" rx="8.322" ry="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11259" data-name="Ellipse 11259" transform="translate(487.538)" stroke="#000" stroke-width="1">
+          <ellipse cx="8.822" cy="9.5" rx="8.822" ry="9.5" stroke="none"/>
+          <ellipse cx="8.822" cy="9.5" rx="8.322" ry="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11260" data-name="Ellipse 11260" transform="translate(559.043 16)" stroke="#000" stroke-width="1">
+          <ellipse cx="8.822" cy="9.5" rx="8.822" ry="9.5" stroke="none"/>
+          <ellipse cx="8.822" cy="9.5" rx="8.322" ry="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11261" data-name="Ellipse 11261" transform="translate(629.62 47)" stroke="#000" stroke-width="1">
+          <ellipse cx="8.822" cy="9.5" rx="8.822" ry="9.5" stroke="none"/>
+          <ellipse cx="8.822" cy="9.5" rx="8.322" ry="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11262" data-name="Ellipse 11262" transform="translate(696.483 70)" stroke="#000" stroke-width="1">
+          <ellipse cx="8.822" cy="9.5" rx="8.822" ry="9.5" stroke="none"/>
+          <ellipse cx="8.822" cy="9.5" rx="8.322" ry="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11263" data-name="Ellipse 11263" transform="translate(765.202 94)" stroke="#000" stroke-width="1">
+          <ellipse cx="8.822" cy="9.5" rx="8.822" ry="9.5" stroke="none"/>
+          <ellipse cx="8.822" cy="9.5" rx="8.322" ry="9" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_48320" data-name="Group 48320" transform="translate(0.142 0)">
+        <path id="Path_45614" data-name="Path 45614" d="M-22.6,293.059s39.75-32,73.028-56c22.186-16,32.354-23,69.331-42,32.354-17.667,29.581-9,67.482-30,38.209-11,20.337-5.667,70.255-15.667,16.947-5.333,50.855-12.685,69.331-16.666,21.261-7,48.609-15.416,69.639-24.334,30.2-1.333,41.291.667,70.255,1.667,25.883,12,24.959,15,69.331,38.333,23.727,8,31.739,21,69.947,29.667,38.209,8,21.261,2.667,72.1,11,30.505,5,62.86,7.333,62.86,7.333" transform="translate(29.598 -100.059)" fill="none" stroke="#f1ad0f" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+        <g id="Ellipse_11240" data-name="Ellipse 11240" transform="translate(0 182)" fill="#f1ad0f" stroke="#f1ad0f" stroke-width="1">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11241" data-name="Ellipse 11241" transform="translate(72 130)" fill="#f1ad0f" stroke="#f1ad0f" stroke-width="1">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11242" data-name="Ellipse 11242" transform="translate(139.474 87)" fill="#f1ad0f" stroke="#f1ad0f" stroke-width="1">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11243" data-name="Ellipse 11243" transform="translate(207.826 56)" fill="#f1ad0f" stroke="#f1ad0f" stroke-width="1">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11244" data-name="Ellipse 11244" transform="translate(277.101 40)" fill="#f1ad0f" stroke="#f1ad0f" stroke-width="1">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11245" data-name="Ellipse 11245" transform="translate(346.376 24)" fill="#f1ad0f" stroke="#f1ad0f" stroke-width="1">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11246" data-name="Ellipse 11246" transform="translate(416.575)" fill="#f1ad0f" stroke="#f1ad0f" stroke-width="1">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11247" data-name="Ellipse 11247" transform="translate(486.774 1)" fill="#f1ad0f" stroke="#f1ad0f" stroke-width="1">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11248" data-name="Ellipse 11248" transform="translate(556.973 39)" fill="#f1ad0f" stroke="#f1ad0f" stroke-width="1">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11249" data-name="Ellipse 11249" transform="translate(612.562 67)" fill="#f1ad0f" stroke="#f1ad0f" stroke-width="1">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11250" data-name="Ellipse 11250" transform="translate(688.562 79)" fill="#f1ad0f" stroke="#f1ad0f" stroke-width="1">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+        </g>
+        <g id="Ellipse_11251" data-name="Ellipse 11251" transform="translate(755.562 86)" fill="#f1ad0f" stroke="#f1ad0f" stroke-width="1">
+          <circle cx="9.5" cy="9.5" r="9.5" stroke="none"/>
+          <circle cx="9.5" cy="9.5" r="9" fill="none"/>
+        </g>
+      </g>
+      <g id="noun-patient-6830803" transform="translate(781.435 135.69)">
+        <g id="Group_48333" data-name="Group 48333">
+          <path id="Path_45608" data-name="Path 45608" d="M38.733,26.162l-6.919-.923V23.657a8.93,8.93,0,0,0,5.427-8.205V11.166a5.038,5.038,0,0,0-2.714-9.284.775.775,0,0,0-.775.775,1.552,1.552,0,0,1-1.55,1.55l-8.47,0a4.327,4.327,0,0,0-4.323,4.323v6.919a8.913,8.913,0,0,0,5.427,8.208V25.24l-6.919.923a5.443,5.443,0,0,0-4.709,5.379v9.107a.775.775,0,0,0,.775.775H42.667a.775.775,0,0,0,.775-.775V31.541a5.443,5.443,0,0,0-4.709-5.379ZM20.959,8.533a2.776,2.776,0,0,1,2.772-2.772H32.2A3.1,3.1,0,0,0,35.186,3.5a3.49,3.49,0,0,1-.66,6.916l-13.568,0Zm0,6.919V11.963H34.527a5.063,5.063,0,0,0,1.164-.136v3.626a7.366,7.366,0,0,1-14.731,0Zm8.77,24.421H20.184V27.424l2.539-.339c.408.742,6.6,12.043,7.006,12.787ZM14.757,31.541A3.889,3.889,0,0,1,18.121,27.7l.512-.069V39.873H14.757ZM31.5,39.873,29.374,36H32.2a1.939,1.939,0,1,1,0,3.878Zm10.394,0H35.1a3.49,3.49,0,0,0-2.9-5.428H28.524l-4.152-7.581,1.342-.178a.775.775,0,0,0,.673-.769V24.155a8.946,8.946,0,0,0,3.876,0l0,1.766a.775.775,0,0,0,.673.769L38.528,27.7a3.886,3.886,0,0,1,3.364,3.841Z" transform="translate(-13.206 -1.882)" fill="#7b7b7b"/>
+          <path id="Path_45609" data-name="Path 45609" d="M39.285,32.074H38.51a.775.775,0,0,0,0,1.55h.775a.775.775,0,0,0,0-1.55Z" transform="translate(-27.656 -19.668)" fill="#7b7b7b"/>
+          <path id="Path_45610" data-name="Path 45610" d="M57.381,33.625h.775a.775.775,0,0,0,0-1.55h-.775a.775.775,0,0,0,0,1.55Z" transform="translate(-38.773 -19.669)" fill="#7b7b7b"/>
+          <path id="Path_45611" data-name="Path 45611" d="M46.659,44.045a3.052,3.052,0,0,0,2.079-.822.774.774,0,0,0,.053-1.095.783.783,0,0,0-1.1-.047,1.466,1.466,0,0,1-1.016.412,1.645,1.645,0,0,1-1.037-.419.775.775,0,1,0-1.042,1.148,3.171,3.171,0,0,0,2.066.822Z" transform="translate(-31.547 -25.438)" fill="#7b7b7b"/>
+        </g>
+      </g>
+      <g id="noun-stethoscope-6814606" transform="translate(780.705 76.195)">
+        <g id="Group_48334" data-name="Group 48334">
+          <path id="Path_45612" data-name="Path 45612" d="M88.129,27.447a.9.9,0,1,1-1.793,0,.9.9,0,1,1,1.793,0" transform="translate(-60.433 -18.583)" fill="#7b7b7b"/>
+          <path id="Path_45613" data-name="Path 45613" d="M26.8,5.657A3.207,3.207,0,0,0,23.749,7.9h-.792A2.864,2.864,0,0,0,20.1,10.765V22.956a5.111,5.111,0,1,1-10.222,0V19.1a7.482,7.482,0,0,0,6.287-5.834l1.589-7.6A3.6,3.6,0,0,0,14.712,1.4a2.334,2.334,0,1,0-.038,1.947,1.667,1.667,0,0,1,1.2,1.929l-1.589,7.6a5.481,5.481,0,0,1-10.733,0l-1.589-7.6a1.666,1.666,0,0,1,1.2-1.929A2.334,2.334,0,1,0,3.116,1.4,3.6,3.6,0,0,0,.077,5.672l1.589,7.6A7.482,7.482,0,0,0,7.953,19.1v3.855a7.032,7.032,0,1,0,14.064,0V10.765a.94.94,0,0,1,.938-.94h.792A3.2,3.2,0,1,0,26.8,5.657Zm0,5.13a1.923,1.923,0,1,1,1.921-1.923A1.924,1.924,0,0,1,26.8,10.787Z" transform="translate(-0.004 0)" fill="#7b7b7b"/>
+        </g>
+      </g>
+    </g>
+    <text id="_Average_Satisfaction_Scores" data-name=" Average Satisfaction Scores" transform="translate(1.873 36)" font-size="34" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> Average Satisfaction Scores</tspan></text>
+    <text id="Source:_E2E_Internal_Healthcare_Research" data-name="Source: E2E Internal Healthcare Research" transform="translate(5.703 70)" fill="#666" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Source: E2E Internal Healthcare Research</tspan></text>
+    <g id="Group_48328" data-name="Group 48328" transform="translate(417.485 456)">
+      <text id="Data_Collected_in_12_Waves" data-name="Data Collected in 12 Waves" transform="translate(0 18)" font-size="17" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Data Collected in 12 Waves</tspan></text>
+    </g>
+    <g id="Group_48331" data-name="Group 48331" transform="translate(135.486 377.598)">
+      <text id="Jan" transform="translate(18 19)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-16.209" y="0">Jan</tspan></text>
+      <text id="Feb" transform="translate(89.818 19)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-16.245" y="0">Feb</tspan></text>
+      <text id="Mar" transform="translate(149.922 19)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-17.19" y="0">Mar</tspan></text>
+      <text id="Apr" transform="translate(216.879 19)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-15.48" y="0">Apr</tspan></text>
+      <text id="May" transform="translate(281.966 19)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-18.819" y="0">May</tspan></text>
+      <text id="Jun" transform="translate(347.1 19)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-15.849" y="0">Jun</tspan></text>
+      <text id="Jul" transform="translate(413.843 19)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-12.195" y="0">Jul</tspan></text>
+      <text id="Aug" transform="translate(479.088 19)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-17.73" y="0">Aug</tspan></text>
+      <text id="Sep" transform="translate(544.946 19)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-16.794" y="0">Sep</tspan></text>
+      <text id="Oct" transform="translate(612.023 19)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-16.065" y="0">Oct</tspan></text>
+      <text id="Nov" transform="translate(670.557 19)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-17.163" y="0">Nov</tspan></text>
+      <text id="Dec" transform="translate(742.022 19)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-17.658" y="0">Dec</tspan></text>
+      <text id="_W1_" data-name="(W1)" transform="translate(18 52)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-18.252" y="0">(W1)</tspan></text>
+      <text id="_W2_" data-name="(W2)" transform="translate(88 52)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-20.772" y="0">(W2)</tspan></text>
+      <text id="_W3_" data-name="(W3)" transform="translate(148.944 52)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-20.97" y="0">(W3)</tspan></text>
+      <text id="_W4_" data-name="(W4)" transform="translate(217.058 52)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-21.249" y="0">(W4)</tspan></text>
+      <text id="_W5_" data-name="(W5)" transform="translate(283.332 52)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-21.213" y="0">(W5)</tspan></text>
+      <text id="_W6_" data-name="(W6)" transform="translate(348.684 52)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-21.258" y="0">(W6)</tspan></text>
+      <text id="_W7_" data-name="(W7)" transform="translate(416.806 52)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-20.223" y="0">(W7)</tspan></text>
+      <text id="_W8_" data-name="(W8)" transform="translate(481.231 52)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-21.294" y="0">(W8)</tspan></text>
+      <text id="_W9_" data-name="(W9)" transform="translate(546.584 52)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-21.141" y="0">(W9)</tspan></text>
+      <text id="_W10_" data-name="(W10)" transform="translate(611.784 52)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-23.778" y="0">(W10)</tspan></text>
+      <text id="_W11_" data-name="(W11)" transform="translate(670.562 52)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-20.835" y="0">(W11)</tspan></text>
+      <text id="_W12_" data-name="(W12)" transform="translate(741.562 52)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-23.355" y="0">(W12)</tspan></text>
+    </g>
+    <g id="Group_48332" data-name="Group 48332" transform="translate(60.486 90)">
+      <text id="_50_" data-name="50%" transform="translate(34 270)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-34.002" y="0">50%</tspan></text>
+      <text id="_65_" data-name="65%" transform="translate(34 185.999)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-34.128" y="0">65%</tspan></text>
+      <text id="_80_" data-name="80%" transform="translate(34 103)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-34.164" y="0">80%</tspan></text>
+      <text id="_95_" data-name="95%" transform="translate(34 19)" fill="#333" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-33.894" y="0">95%</tspan></text>
+    </g>
+  </g>
+</svg>

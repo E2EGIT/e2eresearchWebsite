@@ -1,0 +1,42 @@
+<!-- <svg xmlns="http://www.w3.org/2000/svg" width="29.35" height="56.498" viewBox="0 0 29.35 56.498">
+  <g id="down_mouse" transform="translate(-30 -20.5)">
+    <path id="Path_14180" data-name="Path 14180" d="M44.675,20.5A14.718,14.718,0,0,0,30,35.175V49.116a14.675,14.675,0,0,0,29.35,0V35.175A14.718,14.718,0,0,0,44.675,20.5ZM55.167,49.116a10.493,10.493,0,1,1-20.985,0V35.175a10.493,10.493,0,0,1,20.985,0Z" fill="#8e8e8e"/>
+    <path id="Path_14181" data-name="Path 14181" d="M49.254,32.4A2.051,2.051,0,0,0,47.2,34.454V40.1a2.051,2.051,0,0,0,2.054,2.054A2.1,2.1,0,0,0,51.309,40.1v-5.65A2.051,2.051,0,0,0,49.254,32.4Z" transform="translate(-4.58 -3.168)" fill="#8e8e8e"/>
+    <path id="Path_14182" data-name="Path 14182" d="M51.006,85.58l-3.6,3.6-3.6-3.6a2.075,2.075,0,0,0-2.935,2.935l5.063,5.063a1.988,1.988,0,0,0,1.467.587,2.181,2.181,0,0,0,1.467-.587l5.063-5.063a2.075,2.075,0,1,0-2.935-2.935Z" transform="translate(-2.736 -17.167)" fill="#8e8e8e"/>
+  </g>
+</svg> -->
+
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 29.35 56.498">
+<style>
+	.scroll-wheel {
+      fill: #f05a5c;
+      animation: svg_mouse_wheel 1s infinite alternate;
+      transform-origin: center;
+    }
+    @keyframes svg_mouse_wheel {
+      0% {
+        transform: translate(-4.58px, 0);
+      }
+      100% {
+        transform: translate(-4.58px, 10px); /* Adjust the value for more or less movement */
+      }
+    }
+    .mouse-down-arrow {
+      animation: svg_mouse_down_arrow 1500ms infinite alternate;
+      transform-origin: center;
+    }
+    @keyframes svg_mouse_down_arrow {
+      0% {
+        transform: translate(-2px, -20px);
+      }
+      100% {
+        transform: translate(-2px, -17px); /* Adjust the value for more or less movement */
+      }
+    }
+</style>
+  <g id="down_mouse" transform="translate(-30 -20.5)">
+    <path id="Path_14180" data-name="Path 14180" d="M44.675,20.5A14.718,14.718,0,0,0,30,35.175V49.116a14.675,14.675,0,0,0,29.35,0V35.175A14.718,14.718,0,0,0,44.675,20.5ZM55.167,49.116a10.493,10.493,0,1,1-20.985,0V35.175a10.493,10.493,0,0,1,20.985,0Z" fill="#8e8e8e"/>
+    <path id="Path_14181" class="scroll-wheel" data-name="Path 14181" d="M49.254,32.4A2.051,2.051,0,0,0,47.2,34.454V40.1a2.051,2.051,0,0,0,2.054,2.054A2.1,2.1,0,0,0,51.309,40.1v-5.65A2.051,2.051,0,0,0,49.254,32.4Z" transform="translate(-4.58 -3.168)" fill="#8e8e8e"/>
+    <path id="Path_14182" class="mouse-down-arrow" data-name="Path 14182" d="M51.006,85.58l-3.6,3.6-3.6-3.6a2.075,2.075,0,0,0-2.935,2.935l5.063,5.063a1.988,1.988,0,0,0,1.467.587,2.181,2.181,0,0,0,1.467-.587l5.063-5.063a2.075,2.075,0,1,0-2.935-2.935Z" transform="translate(-2.736 -20.167)" fill="#8e8e8e"/>
+  </g>
+</svg>

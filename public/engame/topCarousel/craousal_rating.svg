@@ -1,0 +1,98 @@
+<svg id="Craousal_Rating" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 920 480">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e8d909"/>
+      <stop offset="0.058" stop-color="#ebd60c"/>
+      <stop offset="0.264" stop-color="#ffc41e"/>
+      <stop offset="0.473" stop-color="#fcab00"/>
+      <stop offset="0.711" stop-color="#fba00d"/>
+      <stop offset="1" stop-color="#fa8e21"/>
+    </linearGradient>
+    <filter id="face" x="345.508" y="239.645" width="230.353" height="231.08" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="13.5" result="blur"/>
+      <feFlood flood-opacity="0.271"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#afc82a"/>
+      <stop offset="0.402" stop-color="#c0cd1f"/>
+      <stop offset="1" stop-color="#e8d909"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_58416" data-name="Group 58416">
+    <g id="Group_1957" data-name="Group 1957">
+      <g id="Rectangle_30145" data-name="Rectangle 30145" fill="#cfcfce" stroke="#b2b2b2" stroke-width="1">
+        <rect width="920" height="251.365" rx="1" stroke="none"/>
+        <rect x="0.5" y="0.5" width="919" height="250.365" rx="0.5" fill="none"/>
+      </g>
+      <text id="Statement_1" data-name="Statement 1" transform="translate(319.114 133.354)" fill="#42424f" font-size="47" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Statement 1</tspan></text>
+    </g>
+    <g id="Group_6750" data-name="Group 6750" transform="translate(55.962 270.145)">
+      <g id="highly_disgree_emoji" data-name="highly disgree emoji" transform="translate(0 9.02)">
+        <g id="Group_6748" data-name="Group 6748" transform="translate(0 0)">
+          <ellipse id="face-2" data-name="face" cx="63.457" cy="63.766" rx="63.457" ry="63.766" fill="#f54f4f"/>
+          <g id="right_eye" data-name="right eye" transform="translate(22.403 45.102)">
+            <ellipse id="Ellipse_3" data-name="Ellipse 3" cx="7.495" cy="12.552" rx="7.495" ry="12.552" transform="translate(10.574 11.132)" fill="#42424f"/>
+            <path id="Path_6" data-name="Path 6" d="M0-.211s10.005-.6,17.658,2.285a35.152,35.152,0,0,1,12.954,9.245" transform="translate(0 0.262)" fill="none" stroke="#42424f" stroke-linecap="round" stroke-width="10"/>
+          </g>
+          <path id="mouth" d="M25.649,0C39.281,0,50.532,12.37,50.532,16.008s-11.251-2.835-24.883-2.835S1.216,18.7,1.216,15.066,12.018,0,25.649,0Z" transform="translate(37.198 89.411)" fill="#42424f"/>
+          <g id="left_eye" data-name="left eye" transform="translate(75.66 45.308)">
+            <ellipse id="Ellipse_3-2" data-name="Ellipse 3" cx="8.091" cy="11.938" rx="8.091" ry="11.938" transform="translate(2.56 11.582)" fill="#42424f"/>
+            <path id="Path_6-2" data-name="Path 6" d="M30.612-.211s-10.005-.6-17.658,2.285A35.152,35.152,0,0,0,0,11.319" transform="translate(0 0.262)" fill="none" stroke="#42424f" stroke-linecap="round" stroke-width="10"/>
+          </g>
+        </g>
+      </g>
+      <g id="disagree_emoji" data-name="disagree emoji" transform="translate(165.217 10.109)">
+        <path id="face-3" data-name="face" d="M63.069,0A63.376,63.376,0,1,1,0,63.376,63.223,63.223,0,0,1,63.069,0Z" fill="url(#linear-gradient)"/>
+        <g id="Group_1" data-name="Group 1" transform="translate(32.452 52.7)">
+          <g id="right_eye-2" data-name="right eye" transform="translate(0 0)">
+            <ellipse id="Ellipse_3-3" data-name="Ellipse 3" cx="8.512" cy="12.053" rx="8.512" ry="12.053" fill="#42424f"/>
+          </g>
+        </g>
+        <g id="Group_2" data-name="Group 2" transform="translate(77.353 53.026)">
+          <g id="right_eye-3" data-name="right eye" transform="translate(0 0)">
+            <ellipse id="Ellipse_3-4" data-name="Ellipse 3" cx="8.142" cy="12.013" rx="8.142" ry="12.013" transform="translate(0)" fill="#42424f"/>
+          </g>
+        </g>
+        <path id="Path_7" data-name="Path 7" d="M23.848-7.333c12.294,0,22.4,8.569,22.4,9.942s-10.1-3.452-22.4-3.452S2,3.981,2,2.608,11.554-7.333,23.848-7.333Z" transform="translate(40.039 98.301)" fill="#42424f"/>
+      </g>
+      <g id="nuteral_emoji" data-name="nuteral emoji" transform="translate(330.046)">
+        <g transform="matrix(1, 0, 0, 1, -386.01, -270.14)" filter="url(#face)">
+          <path id="face-4" data-name="face" d="M74.676,0c41.243,0,74.676,33.6,74.676,75.04s-33.434,75.04-74.676,75.04S0,116.483,0,75.04,33.434,0,74.676,0Z" transform="translate(386.01 270.14)" fill="#e8d909"/>
+        </g>
+        <g id="Ellipse_4" data-name="Ellipse 4" transform="translate(33.363 57.714)" fill="#42424f" stroke="#707070" stroke-width="1">
+          <ellipse cx="10.126" cy="14.801" rx="10.126" ry="14.801" stroke="none"/>
+          <ellipse cx="10.126" cy="14.801" rx="9.626" ry="14.301" fill="none"/>
+        </g>
+        <g id="Ellipse_5" data-name="Ellipse 5" transform="translate(95.392 57.714)" fill="#42424f" stroke="#707070" stroke-width="1">
+          <ellipse cx="9.666" cy="14.801" rx="9.666" ry="14.801" stroke="none"/>
+          <ellipse cx="9.666" cy="14.801" rx="9.166" ry="14.301" fill="none"/>
+        </g>
+        <g id="Ellipse_8" data-name="Ellipse 8" transform="translate(43.203 113.15)" fill="#42424f" stroke="#707070" stroke-width="1">
+          <ellipse cx="31.299" cy="2.775" rx="31.299" ry="2.775" stroke="none"/>
+          <ellipse cx="31.299" cy="2.775" rx="30.799" ry="2.275" fill="none"/>
+        </g>
+      </g>
+      <g id="agred_emoji" data-name="agred emoji" transform="translate(518.091 10.109)">
+        <path id="face-5" data-name="face" d="M63.069,0A63.376,63.376,0,1,1,0,63.376,63.223,63.223,0,0,1,63.069,0Z" fill="url(#linear-gradient-2)"/>
+        <ellipse id="Ellipse_6" data-name="Ellipse 6" cx="8.245" cy="12.013" rx="8.245" ry="12.013" transform="translate(28.952 49.283)" fill="#42424f"/>
+        <ellipse id="Ellipse_7" data-name="Ellipse 7" cx="8.039" cy="12.013" rx="8.039" ry="12.013" transform="translate(81.108 49.283)" fill="#42424f"/>
+        <path id="Path_14" data-name="Path 14" d="M27.267-17.26c14.476,0,26.832-7.363,26.832-3.734S41.743-4.118,27.267-4.118,1.333-17.365,1.333-20.994,12.792-17.26,27.267-17.26Z" transform="translate(36.035 113.057)" fill="#42424f"/>
+      </g>
+      <g id="highly_agreed_emoji" data-name="highly agreed emoji" transform="translate(682.921 10.109)">
+        <g id="Group_6749" data-name="Group 6749" transform="translate(0)">
+          <path id="face-6" data-name="face" d="M63.069,0A63.376,63.376,0,1,1,0,63.376,63.223,63.223,0,0,1,63.069,0Z" fill="#59ba46"/>
+          <path id="Path_9" data-name="Path 9" d="M13.4,0c7.4,0,13.4,5.286,13.4,11.806S20.8,8.95,13.4,8.95,0,18.326,0,11.806,6,0,13.4,0Z" transform="translate(28.941 47.143)" fill="#42424f"/>
+          <path id="Path_12" data-name="Path 12" d="M13.4,0c7.4,0,13.4,5.286,13.4,11.806S20.8,8.95,13.4,8.95,0,18.326,0,11.806,6,0,13.4,0Z" transform="translate(70.24 47.143)" fill="#42424f"/>
+          <path id="Path_13" data-name="Path 13" d="M31.865-12.553c19.352,0,37.513-7.378,37.513,0S51.217,14.166,31.865,14.166-4-5.175-4-12.553,12.512-12.553,31.865-12.553Z" transform="translate(32.016 95.188)" fill="#42424f"/>
+        </g>
+      </g>
+    </g>
+    <g id="noun-back-4574418" transform="translate(439.699 438.847)">
+      <path id="Path_18212" data-name="Path 18212" d="M125.376,35a20.274,20.274,0,0,0-14.407,6.027,20.721,20.721,0,0,0,0,29.1,20.233,20.233,0,0,0,28.813,0,20.7,20.7,0,0,0-.007-29.093A20.3,20.3,0,0,0,125.376,35Zm0,38.214a17.376,17.376,0,0,1-12.348-5.166,17.761,17.761,0,0,1,0-24.942,17.342,17.342,0,0,1,24.7,0,17.748,17.748,0,0,1-.005,24.937,17.4,17.4,0,0,1-12.343,5.171Z" transform="translate(-105.002 -34.998)" fill="#42424f"/>
+      <path id="Path_18213" data-name="Path 18213" d="M209.982,163.575H197.487l3.337-3.37a1.48,1.48,0,0,0,.357-1.41,1.464,1.464,0,0,0-1.019-1.029,1.446,1.446,0,0,0-1.4.361l-5.821,5.879a1.482,1.482,0,0,0,0,2.078l5.821,5.879a1.446,1.446,0,0,0,1.4.361,1.464,1.464,0,0,0,1.019-1.029,1.48,1.48,0,0,0-.357-1.41l-3.337-3.37h12.495a4.358,4.358,0,0,1,3.781,2.2,4.447,4.447,0,0,1,0,4.409,4.358,4.358,0,0,1-3.781,2.2h-4.366a1.453,1.453,0,0,0-1.26.735,1.483,1.483,0,0,0,0,1.47,1.453,1.453,0,0,0,1.26.735h4.366a7.263,7.263,0,0,0,6.3-3.674,7.413,7.413,0,0,0,0-7.349A7.263,7.263,0,0,0,209.982,163.575Z" transform="translate(-185.242 -147.408)" fill="#42424f"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 190 150">
+  <defs>
+    <filter id="Path_326" x="46.5" y="0" width="36" height="36" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.678"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_383" x="50.5" y="4" width="29" height="29" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-opacity="0.678"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_326-2" x="65.5" y="38" width="36" height="36" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-3"/>
+      <feFlood flood-opacity="0.678"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_383-2" x="69.5" y="42" width="29" height="29" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-4"/>
+      <feFlood flood-opacity="0.678"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_326-3" x="91.5" y="76" width="36" height="36" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-5"/>
+      <feFlood flood-opacity="0.678"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_383-3" x="95.5" y="80" width="29" height="29" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-6"/>
+      <feFlood flood-opacity="0.678"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_326-4" x="115.5" y="114" width="36" height="36" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-7"/>
+      <feFlood flood-opacity="0.678"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_383-4" x="119.5" y="118" width="29" height="29" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-8"/>
+      <feFlood flood-opacity="0.678"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Multi_Slider_Sums" transform="translate(43 28.5)" style="mix-blend-mode: luminosity;isolation: isolate">
+    <g id="Group_237" data-name="Group 237" transform="translate(-4 -38)">
+      <g id="Group_173" data-name="Group 173" transform="translate(4 33.583) rotate(-90)">
+        <rect id="Rectangle_194" data-name="Rectangle 194" width="11" height="125" rx="2" transform="translate(-0.417)" fill="#f54f4f"/>
+        <g id="Group_262" data-name="Group 262" transform="translate(0 -14)">
+          <g transform="matrix(0, 1, -1, 0, 24.08, -29)" filter="url(#Path_326)">
+            <path id="Path_326-5" data-name="Path 326" d="M13.5,0A13.5,13.5,0,1,1,0,13.5,13.5,13.5,0,0,1,13.5,0Z" transform="translate(51 31.5) rotate(-90)" fill="#fff" opacity="0.39"/>
+          </g>
+          <g transform="matrix(0, 1, -1, 0, 24.08, -29)" filter="url(#Path_383)">
+            <path id="Path_383-5" data-name="Path 383" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(55 28.5) rotate(-90)" fill="#fff"/>
+          </g>
+        </g>
+        <rect id="Rectangle_242" data-name="Rectangle 242" width="11" height="41" rx="2" transform="translate(-0.417 -43)" fill="#cfcfce"/>
+        <rect id="Rectangle_256" data-name="Rectangle 256" width="11" height="19" rx="2" transform="translate(-0.417 128)" fill="#cfcfce"/>
+      </g>
+    </g>
+    <g id="Group_173-2" data-name="Group 173" transform="translate(0 33.583) rotate(-90)">
+      <rect id="Rectangle_194-2" data-name="Rectangle 194" width="11" height="125" rx="2" transform="translate(-0.417)" fill="#f54f4f"/>
+      <g id="Group_259" data-name="Group 259" transform="translate(0 5)">
+        <g transform="matrix(0, 1, -1, 0, 62.08, -48)" filter="url(#Path_326-2)">
+          <path id="Path_326-6" data-name="Path 326" d="M13.5,0A13.5,13.5,0,1,1,0,13.5,13.5,13.5,0,0,1,13.5,0Z" transform="translate(70 69.5) rotate(-90)" fill="#fff" opacity="0.39"/>
+        </g>
+        <g transform="matrix(0, 1, -1, 0, 62.08, -48)" filter="url(#Path_383-2)">
+          <path id="Path_383-6" data-name="Path 383" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(74 66.5) rotate(-90)" fill="#fff"/>
+        </g>
+      </g>
+      <rect id="Rectangle_242-2" data-name="Rectangle 242" width="11" height="40" rx="2" transform="translate(-0.417 -43)" fill="#cfcfce"/>
+      <rect id="Rectangle_257" data-name="Rectangle 257" width="11" height="19" rx="2" transform="translate(-0.417 128)" fill="#cfcfce"/>
+    </g>
+    <g id="Group_260" data-name="Group 260" transform="translate(0 71.583) rotate(-90)">
+      <rect id="Rectangle_194-3" data-name="Rectangle 194" width="11" height="125" rx="2" transform="translate(-0.417)" fill="#f54f4f"/>
+      <g id="Group_259-2" data-name="Group 259" transform="translate(0 31)">
+        <g transform="matrix(0, 1, -1, 0, 100.08, -74)" filter="url(#Path_326-3)">
+          <path id="Path_326-7" data-name="Path 326" d="M13.5,0A13.5,13.5,0,1,1,0,13.5,13.5,13.5,0,0,1,13.5,0Z" transform="translate(96 107.5) rotate(-90)" fill="#fff" opacity="0.39"/>
+        </g>
+        <g transform="matrix(0, 1, -1, 0, 100.08, -74)" filter="url(#Path_383-3)">
+          <path id="Path_383-7" data-name="Path 383" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(100 104.5) rotate(-90)" fill="#fff"/>
+        </g>
+      </g>
+      <rect id="Rectangle_242-3" data-name="Rectangle 242" width="11" height="40" rx="2" transform="translate(-0.417 -43)" fill="#cfcfce"/>
+      <rect id="Rectangle_258" data-name="Rectangle 258" width="11" height="19" rx="2" transform="translate(-0.417 128)" fill="#cfcfce"/>
+    </g>
+    <g id="Group_261" data-name="Group 261" transform="translate(0 109.583) rotate(-90)">
+      <rect id="Rectangle_194-4" data-name="Rectangle 194" width="11" height="125" rx="2" transform="translate(-0.417)" fill="#f54f4f"/>
+      <g id="Group_259-3" data-name="Group 259" transform="translate(0 55)">
+        <g transform="matrix(0, 1, -1, 0, 138.08, -98)" filter="url(#Path_326-4)">
+          <path id="Path_326-8" data-name="Path 326" d="M13.5,0A13.5,13.5,0,1,1,0,13.5,13.5,13.5,0,0,1,13.5,0Z" transform="translate(120 145.5) rotate(-90)" fill="#fff" opacity="0.39"/>
+        </g>
+        <g transform="matrix(0, 1, -1, 0, 138.08, -98)" filter="url(#Path_383-4)">
+          <path id="Path_383-8" data-name="Path 383" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(124 142.5) rotate(-90)" fill="#fff"/>
+        </g>
+      </g>
+      <rect id="Rectangle_242-4" data-name="Rectangle 242" width="11" height="40" rx="2" transform="translate(-0.417 -43)" fill="#cfcfce"/>
+      <rect id="Rectangle_259" data-name="Rectangle 259" width="11" height="19" rx="2" transform="translate(-0.417 128)" fill="#cfcfce"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,61 @@
+<html><head>
+  <title>Pricing High Low</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/custom.min.css">
+  <link rel="stylesheet" href="css/slider.custom.min.css">
+  <script>
+    var statementCode = "1|2|3|4";
+    // var statementStr =
+    //   "images/slide1png|images/slide2jpeg|images/slide1png|images/slide2jpeg";
+    var statementStr =
+      "images/slide1.png|images/slide2.jpeg|images/slide1.png|images/slide2.jpeg";
+    var priceCode = "10|5|15|40";
+    var currencyVal = "$";
+    var highpriceVal = 99;
+    var lowpriceVal = 88;
+    var highpriceTxt = "High Price";
+    var highpriceBtnImage = "images/low_price.png";
+    var lowpriceTxt = "Low Price";
+    var lowpriceBtnImage = "images/high_price.png";
+    var backpunch = false;
+    var backpunchData = "";
+
+    var toolWidth = "";
+    var toolHeight = "";
+    var toolBorderColor = "";
+    var priceFontSize = "";
+    var priceFontColor = "";
+    var priceBgcolor = "";
+    var priceFontFamily = "";
+
+    var upArrowFontColor = "";
+    var downArrowFontColor = "";
+    var upDonwArrowFontWeight = "";
+    var upDownArrowFontFamily = "";
+
+    function outputValues(outputData, flag) {
+      $(".outputData").val(outputData);
+      $(".complete_outputData").val(flag);
+    }
+  </script>
+</head>
+
+<body>
+  <div class="title-toll">
+    For each product shown, indicate whether the price shown seems like a low
+    price or a high price.
+  </div>
+  <div class="respondent-info">
+    Provide you best estimate by clicking on "low price" or "high price."
+  </div>
+  <div class="main-container"></div>
+
+  <div class="outputData_Container">
+    <input type="hidden" class="outputData">
+    <input type="hidden" class="complete_outputData" value="0">
+  </div>
+
+<script src="js/jquery.min.js"></script>
+<script src="js/custom.min.js"></script>
+
+</body></html>

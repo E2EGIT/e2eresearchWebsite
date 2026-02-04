@@ -1,0 +1,61 @@
+@import "../../../assets/styles/shared/mixins.scss";
+
+.ai-how-it-works {
+  .box-sec {
+    box-shadow: 0px 0px 6px #00000012;
+    border: 1px solid #e8e8e8;
+  }
+}
+
+.ai-banner-logo {
+  height: 50px;
+  @include breakpoint(mobile) {
+    height: 22px;
+  }
+}
+
+.ai-work-sec {
+  .work-card {
+    background: #ffffff;
+    box-shadow: 0px 0px 6px #00000012;
+    &:not(:last-child) {
+      margin-bottom: 15px;
+    }
+    .svg-icon {
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100%;
+      width: 100%;
+      padding: 20px;
+      svg {
+        width: 60px;
+        height: 60px;
+      }
+      &::before {
+        content: "";
+        position: absolute;
+        top: 26px;
+        right: 0;
+        height: calc(100% - 40px);
+        border-right: 1px solid #eeeeee;
+        @include breakpoint(mobile) {
+          display: none;
+        }
+      }
+    }
+    .works-contain {
+      display: flex;
+      flex-direction: column;
+      padding: 20px;
+    }
+  }
+}
+
+.margin-ai-sec {
+  margin-top: 34px;
+  @include breakpoint(mobile) {
+    margin-top: 24px;
+  }
+}

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="39" height="39" viewBox="0 0 39 39">
+  <defs>
+    <filter id="Ellipse_11247" x="0" y="0" width="39" height="39" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="dark_green" transform="translate(-1370 -368)">
+    <g transform="matrix(1, 0, 0, 1, 1370, 368)" filter="url(#Ellipse_11247)">
+      <circle id="Ellipse_11247-2" data-name="Ellipse 11247" cx="16.5" cy="16.5" r="16.5" transform="translate(3 3)" fill="#fff"/>
+    </g>
+    <path id="Emoji_7" d="M17.994,3.375A14.619,14.619,0,1,0,32.613,17.994,14.617,14.617,0,0,0,17.994,3.375Zm5.06,10.683a1.687,1.687,0,1,1-1.687,1.687A1.683,1.683,0,0,1,23.054,14.058Zm-10.121,0a1.687,1.687,0,1,1-1.687,1.687A1.683,1.683,0,0,1,12.934,14.058Zm5.06,11.878a6.9,6.9,0,0,1-6.621-4.969.565.565,0,0,1,.541-.724H24.066a.565.565,0,0,1,.541.724A6.886,6.886,0,0,1,17.994,25.936Z" transform="translate(1371.506 369.506)" fill="#59ba46"/>
+  </g>
+</svg>

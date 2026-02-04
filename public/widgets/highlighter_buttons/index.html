@@ -1,0 +1,92 @@
+<!doctype html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="css/highlighter_buttons.min.css">
+        <script src="js/jquery-2.2-plus-ui-plus-touch.min.js"></script>
+        <script src="js/highlighter_buttons.min.js"></script>
+        <style>
+            .header-nav {
+    /* display: inline-block; */
+    display: none;
+    width: 100%;
+}
+            .back-nav{
+                float: right;
+                cursor: pointer;
+            }
+            .back-nav a{
+                text-decoration: none;      
+                color: #6d5f24;          
+            }
+            .back-nav{
+                display: inline-block;
+                border:1px solid #c9ae34;
+                color: #705D07;
+                border-radius: 3px 3px 3px 3px;
+                -webkit-border-radius: 3px 3px 3px 3px;
+                -moz-border-radius: 3px 3px 3px 3px;
+                font-size: 14px;
+                letter-spacing: 0.04em;
+                text-transform: uppercase;
+                font-family: calibri;
+                padding: 10px 20px;
+                margin: 10px;
+                box-shadow: inset 0 1px 0 0 #fff6ce,inset 0 -1px 0 0 #e3c852,inset 0 0 0 1px #fce88d,0 2px 4px 0 #D4D4D4;
+                -moz-box-shadow: inset 0 1px 0 0 #fff6ce,inset 0 -1px 0 0 #e3c852,inset 0 0 0 1px #fce88d,0 2px 4px 0 #D4D4D4;
+                -webkit-box-shadow: inset 0 1px 0 0 #fff6ce,inset 0 -1px 0 0 #e3c852,inset 0 0 0 1px #fce88d,0 2px 4px 0 #D4D4D4;
+                background-image: linear-gradient(to top, #fce374, #fcdf5b);
+                background-color: #fce374;
+            }
+            .back-nav:hover, .back-nav:active{
+                border:1px solid #967d09;
+                color: #705D07;
+                box-shadow: inset 0 1px 0 0 #fff6ce,inset 0 -1px 0 0 #e3c852,inset 0 0 0 1px #fce88d;
+                -moz-box-shadow: inset 0 1px 0 0 #fff6ce,inset 0 -1px 0 0 #e3c852,inset 0 0 0 1px #fce88d;
+                -webkit-box-shadow: inset 0 1px 0 0 #fff6ce,inset 0 -1px 0 0 #e3c852,inset 0 0 0 1px #fce88d;
+                background-color: #fcdf5b;
+            }
+			.title-toll {
+			  width: 98%;
+			  font-family: Arial;
+			  text-align: left;
+			  font-size: 16px;
+			  border-radius: 4px;
+			  padding: 12px;
+			  background: #fbfbfb;
+			  font-weight: bold;
+			  border-bottom: 1px solid #efefef;
+			  box-shadow: 0 4px 5px rgba(152, 152, 152, 0.1);
+			  margin-bottom: 25px;
+			  color: #999;
+			  line-height: 25px;
+		}
+        </style>
+    </head>
+    <body>
+   
+		<!-- <div class="tool-title">
+			How much do you agree or disagree with each of the following statements...?
+		</div> -->
+		
+        <script>
+            var wdth= 700;
+            var hght= 418;
+            // var phrase = "X1:Y1:width:height";
+            var phrase = "6:43:161:43|36:121:158:156|3:279:229:89|225:109:145:76|383:109:150:77|545:109:146:76|306:206:145:74|466:206:145:74|241:339:28:29|270:338:58:30|329:339:28:29|359:338:58:30|419:339:28:29|448:338:58:30|507:339:28:29|537:338:58:30|597:339:28:29|626:338:58:30";
+            var imageSrc = "images/imgpsh_fullsize_anim.png";
+
+            function receiveOutPut(noCLickArr,greenArr,redArr){
+                $(".out-noCLick").val(noCLickArr);
+                $(".out-green").val(greenArr);
+                $(".out-red").val(redArr);
+            }
+        </script>
+        <div class="high-btn-container"></div>
+        <div class="output-container">
+            <input type="hidden" class="out-noCLick">
+            <input type="hidden" class="out-green">
+            <input type="hidden" class="out-red">
+        </div>
+    </body>
+</html>

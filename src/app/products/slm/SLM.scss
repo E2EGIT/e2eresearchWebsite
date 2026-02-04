@@ -1,0 +1,587 @@
+.survey-link {
+  position: relative;
+  h2 {
+    margin-bottom: 0;
+  }
+
+  .banner-logo {
+    text-align: right;
+    z-index: 2;
+  }
+}
+
+// .banner-mobile {
+//   @include breakpoint(mobile) {
+//     position: absolute;
+//     top: 5px;
+//     right: 0px;
+//   }
+// }
+
+.inscribee-logo {
+  height: 40px;
+  @include breakpoint(mobile) {
+    height: 15px;
+  }
+  @include breakpoint(4kscreen) {
+    height: 65px;
+  }
+}
+.data-valiator-logo {
+  height: 55px;
+  @include breakpoint(mobile) {
+    height: 25px;
+  }
+  @include breakpoint(4kscreen) {
+    height: 65px;
+  }
+}
+.gimifiaction-logo,
+.raven-logo,
+.resq-logo {
+  height: 60px;
+  @include breakpoint(mobile) {
+    height: 35px;
+  }
+  @include breakpoint(4kscreen) {
+    height: 80px;
+  }
+}
+.raven-logo {
+  @include breakpoint(mobile) {
+    height: 29px !important;
+  }
+}
+.slm-main-logo {
+  height: 35px;
+  @include breakpoint(mobile) {
+    height: 25px;
+  }
+  @include breakpoint(4kscreen) {
+    height: 70px;
+  }
+}
+.data-pilot-logo {
+  height: 58px;
+  @include breakpoint(mobile) {
+    height: 28px;
+  }
+  @include breakpoint(4kscreen) {
+    height: 65px;
+  }
+}
+
+.banner-background {
+  position: relative;
+  background: rgba(0, 0, 0, 0.12) url("/banners/page/banner_left.svg") no-repeat;
+  background-position: 10px bottom;
+  background-size: contain;
+  @include breakpoint(mobile) {
+    background-position: -110px bottom;
+    background-size: 90% 90%;
+  }
+}
+
+.get-started-slm {
+  position: relative;
+
+  &:hover {
+    .gray-scale {
+      filter: grayscale(0);
+    }
+    svg {
+      filter: grayscale(0);
+    }
+  }
+  svg {
+    filter: grayscale(1);
+  }
+}
+
+.slm-start {
+  padding-top: 10rem !important;
+  padding-bottom: 50px !important;
+  @include breakpoint(mobile) {
+    padding-top: 7rem !important;
+    padding-bottom: 30px !important;
+  }
+
+  @media (min-width: 1025px) and (max-width: 1094px) {
+    padding-top: 8rem !important;
+    padding-bottom: 50px !important;
+  }
+  @include breakpoint(4kscreen) {
+    padding-top: 120px !important;
+    padding-bottom: 120px !important;
+  }
+
+  &::before {
+    content: "";
+    background: url(/slm/backgroun-sec.png) no-repeat;
+    width: 570px;
+    height: 310px;
+    position: absolute;
+    background-size: 96%;
+    left: -100px;
+    top: -54px;
+    transform: translate(-78px, -65px);
+    @include breakpoint(mobile) {
+      width: 300px;
+      transform: translate(18px, -5px);
+    }
+    @include breakpoint(common_device) {
+      width: 530px;
+      height: 370px;
+      transform: translate(-78px, -65px);
+    }
+    @media (min-width: 1025px) and (max-width: 1094px) {
+      height: 270px;
+      background-size: 86%;
+      left: -101px;
+      top: -24px;
+      transform: translate(-80px, -84px);
+    }
+    @include breakpoint(4kscreen) {
+      width: 630px;
+      height: 350px;
+      background-size: 100%;
+      transform: translate(-80px, -124px);
+    }
+  }
+}
+
+.why-choose-slm {
+  padding-top: 4rem;
+
+  @include breakpoint(mobile) {
+    padding-top: 2.5rem;
+  }
+  .gray-scale-icon {
+    filter: grayscale(1);
+    &:hover {
+      filter: grayscale(0);
+    }
+  }
+  &:hover {
+    .gray-scale {
+      transition: all 0.3s;
+      filter: grayscale(0);
+    }
+  }
+}
+
+.key-features-slm {
+  position: relative;
+
+  .border-botom {
+    border-bottom: 1px solid $border-bottom;
+  }
+  .blk-btm {
+    padding-bottom: 32px;
+  }
+  .blk-pad {
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+  .blk-top {
+    padding-top: 32px;
+  }
+
+  .features-hover {
+    .hover-icon {
+      transition: 0.3s all;
+    }
+    &:hover {
+      .hover-icon {
+        scale: 1.1;
+      }
+    }
+  }
+  .svg-icon {
+    width: 200px;
+    height: 200px;
+    @media (min-width: 1025px) and (max-width: 1094px) {
+      width: 150px;
+      height: 150px;
+    }
+
+    @include breakpoint(Ipad_land) {
+      width: 120px;
+      height: 120px;
+    }
+    @media (min-width: 1095px) and (max-width: 1800px) {
+      width: 150px;
+      height: 150px;
+    }
+    @include breakpoint(4kscreen) {
+      width: 300px;
+      height: 300px;
+    }
+  }
+}
+
+.benefit-slm {
+  .benefit-img {
+    img {
+      object-fit: cover;
+
+      @include breakpoint(mobile) {
+        height: 100%;
+      }
+      @include breakpoint(2kscreen) {
+        height: 100%;
+      }
+      @include breakpoint(4kscreen) {
+        height: 850px;
+      }
+    }
+  }
+  .can-blk {
+    margin-top: 27px;
+  }
+
+  &:hover {
+    .gray-scale {
+      transition: all 0.3s;
+      filter: grayscale(0);
+    }
+  }
+  p {
+    width: 85%;
+    @media (min-width: 1025px) and (max-width: 1094px) {
+      line-height: 1.4;
+    }
+  }
+
+  @include breakpoint(mobile) {
+    gap: 0;
+  }
+  @include breakpoint(common_device) {
+    gap: 70px 0;
+  }
+}
+
+.mb-6 {
+  margin-bottom: 6rem;
+}
+
+.slm-video {
+  .ripple-icon-video {
+    margin-left: 50px;
+    margin-top: -65px;
+  }
+}
+.ripple-icon-video {
+  position: relative;
+  flex: 0 0 50px;
+  margin-top: 35px;
+  @include breakpoint(mobile) {
+    margin-top: 0px;
+  }
+  &:hover {
+    .ripple {
+      filter: grayscale(0);
+    }
+  }
+  .ripple {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    -webkit-animation: rippleAnimation 3s linear infinite;
+    animation: rippleAnimation 1s linear infinite;
+    filter: grayscale(1);
+    @include breakpoint(mobile) {
+      scale: 0.7;
+    }
+    @media (min-width: 1025px) and (max-width: 1094px) {
+      transform: scale(0.7);
+    }
+    @include breakpoint(4kscreen) {
+      scale: 1.5;
+    }
+
+    .play-btn {
+      width: 50px;
+      height: 50px;
+      background: $white-color;
+      border-radius: 50%;
+      border: none;
+      .video-btn {
+        background: linear-gradient(
+          90deg,
+          rgba(100, 102, 115, 1) 19%,
+          rgba(240, 90, 92, 1) 100%
+        );
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+      }
+      .video-btn:after {
+        content: " ";
+        position: absolute;
+        left: 56%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        border-top: 7px solid transparent;
+        border-right: none;
+        border-left: 12px solid #fff;
+        border-bottom: 7px solid transparent;
+      }
+    }
+  }
+
+  @-webkit-keyframes rippleAnimation {
+    0% {
+      -webkit-boxbox-shadow: 0 0 0 0px #fff, 0 0 0 1px rgba(240, 90, 92, 0.2),
+        0 0 0 2px #fff, 0 0 0 3px rgba(240, 90, 92, 0.2), 0 0 0 9px #fff,
+        0 0 0 10px rgba(240, 90, 92, 0.2), 0 0 0 19px #fff,
+        0 0 0 20px rgba(240, 90, 92, 0.2);
+      box-shadow: 0 0 0 0px #fff, 0 0 0 1px rgba(240, 90, 92, 0.2),
+        0 0 0 2px #fff, 0 0 0 3px rgba(240, 90, 92, 0.2), 0 0 0 9px #fff,
+        0 0 0 10px rgba(240, 90, 92, 0.2), 0 0 0 19px #fff,
+        0 0 0 20px rgba(240, 90, 92, 0.2);
+
+      // filter: grayscale(1);
+    }
+    100% {
+      -webkit-boxbox-shadow: 0 0 0 2px #fff, 0 0 0 3px rgba(240, 90, 92, 0.2),
+        0 0 0 9px #fff, 0 0 0 10px rgba(240, 90, 92, 0.2), 0 0 0 19px #fff,
+        0 0 0 20px rgba(240, 90, 92, 0.2), 0 0 0 28px rgba(255, 255, 255, 0.5),
+        0 0 0 30px rgba(189, 142, 210, 0);
+      box-shadow: 0 0 0 2px #fff, 0 0 0 3px rgba(240, 90, 92, 0.2),
+        0 0 0 9px #fff, 0 0 0 10px rgba(240, 90, 92, 0.2), 0 0 0 19px #fff,
+        0 0 0 20px rgba(240, 90, 92, 0.2), 0 0 0 28px rgba(255, 255, 255, 0.5),
+        0 0 0 30px rgba(189, 142, 210, 0);
+      // filter: grayscale(1);
+    }
+  }
+  @keyframes rippleAnimation {
+    0% {
+      -webkit-boxbox-shadow: 0 0 0 0px #fff, 0 0 0 1px rgba(240, 90, 92, 0.2),
+        0 0 0 2px #fff, 0 0 0 3px rgba(240, 90, 92, 0.2), 0 0 0 9px #fff,
+        0 0 0 10px rgba(240, 90, 92, 0.2), 0 0 0 19px #fff,
+        0 0 0 20px rgba(240, 90, 92, 0.2);
+      box-shadow: 0 0 0 0px #fff, 0 0 0 1px rgba(240, 90, 92, 0.2),
+        0 0 0 2px #fff, 0 0 0 3px rgba(240, 90, 92, 0.2), 0 0 0 9px #fff,
+        0 0 0 10px rgba(240, 90, 92, 0.2), 0 0 0 19px #fff,
+        0 0 0 20px rgba(240, 90, 92, 0.2);
+      // filter: grayscale(1);
+    }
+    100% {
+      -webkit-boxbox-shadow: 0 0 0 2px #fff, 0 0 0 3px rgba(240, 90, 92, 0.2),
+        0 0 0 9px #fff, 0 0 0 10px rgba(240, 90, 92, 0.2), 0 0 0 19px #fff,
+        0 0 0 20px rgba(240, 90, 92, 0.2), 0 0 0 28px rgba(255, 255, 255, 0.5),
+        0 0 0 30px rgba(189, 142, 210, 0);
+      box-shadow: 0 0 0 2px #fff, 0 0 0 3px rgba(240, 90, 92, 0.2),
+        0 0 0 9px #fff, 0 0 0 10px rgba(240, 90, 92, 0.2), 0 0 0 19px #fff,
+        0 0 0 20px rgba(240, 90, 92, 0.2), 0 0 0 28px rgba(255, 255, 255, 0.384),
+        0 0 0 30px rgba(189, 142, 210, 0), 0 0 0 20px rgba(240, 90, 92, 0.1);
+      // filter: grayscale(1);
+    }
+  }
+
+  img {
+    max-width: 80px;
+    height: 80px;
+  }
+}
+
+.slm-video {
+  @include breakpoint(smLaptop) {
+    margin-left: 1rem;
+  }
+}
+
+.pad-right {
+  padding-right: 30px !important;
+}
+
+.mt-xxl-5_2 {
+  @include breakpoint(4kscreen) {
+    margin-top: 6rem !important;
+  }
+  @include breakpoint(2kscreen) {
+    margin-top: 6rem;
+  }
+}
+
+.hover-effect-slm {
+  svg {
+    transition: all 0.3s;
+  }
+
+  &:hover {
+    .Efficiency_svg__hover-effect-slm,
+    .DataQuality_svg__hover-effect-slm,
+    .Insights_svg__hover-effect-slm {
+      opacity: 1;
+      stroke: $primary-color;
+      stroke-dasharray: 600;
+      stroke-dashoffset: 600;
+      animation: draw 3s linear forwards;
+    }
+
+    @keyframes draw {
+      to {
+        stroke-dashoffset: 1;
+      }
+    }
+
+    svg {
+      transition: all 0.3s;
+      filter: grayscale(0);
+      transform: scale(1.05);
+    }
+  }
+}
+.slm-page-ban {
+  background-color: #fcfcfc;
+}
+
+.slm-pefet {
+  padding-top: 2rem;
+}
+
+.slm-get {
+  padding: 2rem;
+  @include breakpoint(mobile) {
+    padding: 20px 0 2rem 0;
+  }
+  @include breakpoint(common_device) {
+    padding: 10px 0px 1rem 0px;
+  }
+}
+
+.slm-choose-img {
+  position: relative;
+  &::before {
+    content: "";
+    border-left: 1px solid #e1e1e1;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: -150px;
+    left: 120px;
+    transform: rotate(27deg);
+
+    @include breakpoint(mobile) {
+      display: none;
+      left: auto;
+    }
+    @include breakpoint(mobile_land) {
+      display: none;
+    }
+    @include breakpoint(Ipad_land) {
+      width: 100px;
+      height: 100px;
+      bottom: 122px;
+      left: 60px;
+      display: none;
+    }
+    @include breakpoint(Ipad_port) {
+      width: 100px;
+      height: 100px;
+      bottom: 122px;
+      left: 60px;
+      display: none;
+    }
+    @include breakpoint(smScreen) {
+      display: none;
+    }
+    @include breakpoint(lgScreen) {
+      display: none;
+    }
+    @media (min-width: 1025px) and (max-width: 1094px) {
+      left: 80px;
+    }
+    @include breakpoint(2kscreen) {
+      bottom: -150px;
+      left: 200px;
+    }
+    @include breakpoint(4kscreen) {
+      bottom: -200px;
+      left: 365px;
+    }
+  }
+
+  &::after {
+    content: "";
+    border-left: 1px solid #e1e1e1;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    bottom: -150px;
+    right: -120px;
+    transform: rotate(-27deg) translate(0px, 0px);
+    @include breakpoint(mobile) {
+      display: none;
+    }
+    @include breakpoint(mobile_land) {
+      display: none;
+    }
+    @include breakpoint(Ipad_land) {
+      display: none;
+    }
+    @include breakpoint(Ipad_port) {
+      display: none;
+    }
+    @include breakpoint(smScreen) {
+      display: none;
+    }
+    @include breakpoint(lgScreen) {
+      display: none;
+    }
+    @media (min-width: 1025px) and (max-width: 1094px) {
+      right: 165px;
+    }
+    @include breakpoint(2kscreen) {
+      right: -9px;
+    }
+    @include breakpoint(4kscreen) {
+      bottom: -150px;
+      right: 150px;
+      transform: rotate(334deg);
+    }
+  }
+}
+.tec-all-img {
+  &::after {
+    content: "";
+    bottom: -88px;
+    right: -110px;
+    transform: rotate(-27deg);
+  }
+}
+
+.header-container {
+  .pe-xxl-5 {
+    @include breakpoint(4kscreen) {
+      padding-right: 9rem !important;
+    }
+  }
+}
+
+.box-blk-img {
+  h5 {
+    &:not(:first-child) {
+      margin-bottom: 5px;
+    }
+  }
+}
+
+.svg-blk-img {
+  svg {
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+.left-padd-crousle {
+  padding-left: 60px;
+  @include breakpoint(mobile) {
+    padding-left: 17px;
+  }
+  @include breakpoint(Ipad_port) {
+    padding-left: 17px;
+  }
+}

@@ -1,0 +1,180 @@
+[
+  {
+    "title": "Empowering Businesses with AI-Driven Data Science & Research Solutions | E2E Research",
+    "description": "E2E Research empowers businesses across industries with AI-driven data science, predictive analytics, and cutting-edge technology. From market research and consumer insights to innovative products like enGame and Inscribee, we deliver tailored solutions for smarter decisions, improved engagement, and measurable growth. ISO-certified for quality, we specialize in research, consulting, data collection, and visualization, offering unmatched expertise in food and beverage, healthcare, financial services, and beyond.",
+    "url": "/"
+  },
+  {
+    "title": "Industry-Specific Research Solutions | E2E Research Services Marketing Insights",
+    "description": "Discover E2E's tailored research solutions across industries, including food & beverage, consumer goods, healthcare, financial services, technology, entertainment, sports, and advertising. Leverage qualitative and quantitative insights to drive growth, enhance customer experiences, and stay competitive.",
+    "url": "/industries"
+  },
+  {
+    "title": "Food and Beverages",
+    "description": "We specialize in providing in-depth marketing research tailored specifically for the Food and Beverage sector. We cover the research in the entire phase of brand evolution starting with the new market entry to the priority markets. Our goal is to help businesses make informed decisions that drive growth and enhance customer satisfaction. ",
+    "url": "/industries/food-and-beverage"
+  },
+  {
+    "title": "Consumer Goods",
+    "description": "We specialize in delivering comprehensive marketing research solutions tailored to the Consumer Industry. Our mission is to empower businesses with the insights they need to make informed decisions, enhance customer experiences, and drive growth.",
+    "url": "/industries/consumer-goods"
+  },
+  {
+    "title": "Healthcare",
+    "description": "We specialize in providing comprehensive marketing research solutions tailored to the Healthcare industry. Our mission is to empower healthcare organizations-ranging from providers and pharmaceutical companies to insurers and wellness brands-with the insights needed to improve patient engagement, drive innovation, and enhance service delivery.",
+    "url": "/industries/healthcare"
+  },
+  {
+    "title": "Financial Services Research and Analytics | E2E Research",
+    "description": "Gain valuable insights into financial services market research, emphasizing digital transformation, process improvement, and product innovation for enhanced competitiveness.",
+    "url": "/industries/financial-services"
+  },
+  {
+    "title": "Enhancing IT Growth with Tailored Marketing Solutions| E2E Research",
+    "description": "Elevate your IT business with our comprehensive marketing research services. Gain valuable insights into market trends, customer needs, and effective IT strategies.",
+    "url": "/industries/technology"
+  },
+  {
+    "title": "Tailored Marketing Solutions for the Evolving Entertainment Industry| E2E Research",
+    "description": "Unlock the potential of your entertainment business with our expert marketing research. We provide insights that empower informed decisions and audience engagement.",
+    "url": "/industries/entertainment"
+  },
+  {
+    "title": "Navigating the Competitive Landscape in Sports Marketing| E2E Research",
+    "description": "Unlock the potential of your entertainment business with our expert marketing research. We provide insights that empower informed decisions and audience engagement.",
+    "url": "/industries/sports"
+  },
+  {
+    "title": "Unlocking the Power of Marketing Research in Advertising| E2E Research",
+    "description": "Unlock impactful marketing strategies with our expert research services. We focus on audience insights, campaign effectiveness, and brand perception for measurable results",
+    "url": "/industries/advertising"
+  },
+  {
+    "title": "E2E Research Offerings | Unlock Market Potential with Data-Driven Insights",
+    "description": "Explore E2E’s research services, including market assessment, consumer research, new product development, sensory analysis, and brand research. Unlock market opportunities, gain actionable insights, and develop winning strategies with proven research designs tailored to your business needs.",
+    "url": "/services"
+  },
+  {
+    "title": "Product Insights",
+    "description": "To get the product insights in line with consumer needs, product team not only requires a good design of product with right features but also leverage the host of marketing research to build the right data, insight and analysis around the product. ",
+    "url": "/services/product-insights"
+  },
+  {
+    "title": "Brand Research",
+    "description": "In today’s competitive environment, brand has utmost responsibility to listen in the consumer/stakeholder’s feedback to stay competitive and to create differentiation in business. To cater this, E2E offers the full spectrum of brand research to evaluate and track your brand performance/ value using the well-established E2E brand tracker.",
+    "url": "/services/brand-research"
+  },
+  {
+    "title": "New Product Development (NPD) Research",
+    "description": "Covering the product from Ideation to Shelf is what we cover in NPD research. To facilitate the research process, we can liaise with your internal teams to gain understanding about the product and brand, help them to refine the new ideas using quick concept research. Finally, we could conduct detailed research on the shortlisted concept to identify the winner in the tested category.",
+    "url": "/services/product-development"
+  },
+  {
+    "title": "Consumer Research",
+    "description": "To gain the competitive advantage, it’s important to know your customers in-depth. However, to unlock the future opportunities, a clear link of business offerings with relevant customer needs must be established with help of consumer research. By doing so, companies could position themselves better in the market aligning with consumer trends and changing dynamics of product consumption.",
+    "url": "/services/consumer-research"
+  },
+  {
+    "title": "Market Assessment",
+    "description": "Tapping into the right market to identify the new opportunities and creating the relevant offerings will help you to grow your business sustainably. E2E as a part of process keeps examining the trends and consumer behaviour that triggers any changes in the landscape of the competitive market. ",
+    "url": "/services/market-assessment"
+  },
+  {
+    "title": "Sensory Research",
+    "description": "E2E provides comprehensive sensory research to evaluate consumer products through the senses-sight, smell, touch, and taste. Leveraging advanced technology, analytics, and survey techniques, we deliver deep insights into flavour, texture, and taste profiles for your products.",
+    "url": "/services/sensory-research"
+  },
+  {
+    "title": "Survey Scripting & Customizations, survey programming",
+    "description": "Our team brings extensive expertise in complex survey design, logic implementation, and scripting using industry-leading tools like Qualtrics, Confirmit, Decipher, Dimension, Sawtooth etc. From multi-layered question flows to sophisticated respondent segmentation and data validation, we ensure every aspect of your survey runs seamlessly, delivering quality data you can rely on.",
+    "url": "/data-collection-and-analysis/survey-scripting"
+  },
+  {
+    "title": "Data Processing & Analysis",
+    "description": "Our online data collection approach goes beyond simply gathering responses. We apply a meticulous process that combines best-in-class tools with strategic methodologies to reach the right respondents, protect data integrity, and optimize response rates. ",
+    "url": "/data-collection-and-analysis/data-processing-&-analytics"
+  },
+  {
+    "title": "Online Data Collection",
+    "description": "Experience meticulous online data collection that prioritizes quality and targeted sampling. Our approach ensures accurate insights from the right respondents globally.",
+    "url": "/data-collection-and-analysis/online-data-collection"
+  },
+  {
+    "title": "Dashboards",
+    "description": "We are specialized in custom dashboard development, creating interactive, visually compelling dashboards that bring your data to life and empower you to make informed decisions, faster.",
+    "url": "/data-collection-and-analysis/data-visualization-dashboards"
+  },
+  {
+    "title": "Community Management",
+    "description": "Effective community management not only strengthens brand trust and engagement but also provides insights into your audience’s needs and preferences. By building an engaged community, you gain a valuable feedback loop that helps you adapt and grow alongside your customers.",
+    "url": "/data-collection-and-analysis/community-management"
+  },
+
+  {
+    "title": "Enhance Your Research Cycle with E2E’s Advanced Tools | Analytics, Data Validation & E-Signatures",
+    "description": "Streamline your research cycle with E2E’s innovative tools, including Raven for analytics, SLM for lifecycle efficiency, Data Pilot for project management, Inscribee for secure e-signatures, and ResQ for real-time respondent scoring. Enhance accuracy, insights, and productivity with our cutting-edge solutions.",
+    "url": "/products"
+  },
+  {
+    "title": "Raven dashboards",
+    "description": "Raven generates survey insights with real-time API sync and SPSS support. Raven crosstab analysis reveals correlations and trends effortlessly. Raven offers powerful tools for hypothesis testing with precise analysis. Raven saves insights, filters, and charts for easy, one-click reporting. Raven2.0 offers fast, error-free charts for valuable market insights. Raven provides comprehensive statistical analysis with mean matrices and metrics. Raven enables seamless exports in PPT, PDF, Excel, preserving branding. Raven offers dynamic theming for customize visuals, branding, and evaluation methods.",
+    "url": "/products/raven"
+  },
+  {
+    "title": "SLM",
+    "description": "Managing survey links effectively ensuring a smooth respondent experience and accurate data collection. Maximize survey effectiveness with just a few clicks. Access real time visual insights, monitor quality metrics easily, and stay in full control of survey progress. ",
+    "url": "/products/slm"
+  },
+
+  {
+    "title": "Revolutionize Survey Research with AI | AutoVerb, QProbe, QUIQ, and SpeakSurvey",
+    "description": "Discover the power of AI in survey research with our innovative tools, including AutoVerb, QProbe, QUIQ, and SpeakSurvey. Enhance efficiency, precision, and insights with real-time question generation, automated coding, relevancy scoring, and voice-based survey experiences. Revolutionize how surveys are conducted and analyzed with cutting-edge AI technology.",
+    "url": "/products/AI"
+  },
+  {
+    "title": "Data Validator Tool | Ensure Accurate and Reliable Data",
+    "description": "Streamline your data validation process with the Data Validator tool. Automatically detect inconsistencies, errors, and anomalies in datasets. Features include SPSS import, API integration, automated scripts, and customizable reports for efficient data checking.",
+    "url": "/products/data-validator"
+  },
+  {
+    "title": "Inscribee",
+    "description": "From setup to signature, Inscribee simplifies business processes and saves your time. Digital signatures, Document Management, Sign with finger, typing, or saved credentials, raceable, real-time signature, AI-driven research, predictive analytics, machine learning.",
+    "url": "/products/inscribee"
+  },
+  {
+    "title": "Data Pilot",
+    "description": "Performing comprehensive logical flow checks and error detection. It simulates all possible permutation and combination scenarios across survey links, making it ideal for testing and validating survey designs before deployment. ",
+    "url": "/products/datapilot"
+  },
+  {
+    "title": "Engame, Survey gamification",
+    "description": "This innovative solution revolutionizes surveys by combining interactivity and customization, increasing engagement and response rates. With dynamic elements like sliders, emotion ratings, and video captures, it ensures meaningful insights while delivering a seamless and enjoyable experience for participants and organizations. ",
+    "url": "/products/gamification"
+  },
+  {
+    "title": "Resq",
+    "description": "Ensure respondent authenticity with instant evaluation using advanced parameters such as Local IP, device fingerprint, cookies, and local storage. These tools provide reliable insights into user identity, preventing fraudulent responses and ensuring data integrity. Streamline verification processes, enhance security, and make confident decisions with this powerful, data-driven approach to user validation and response authentication.",
+    "url": "/products/resQ"
+  },
+
+  {
+    "title": "About",
+    "description": "E2E was founded in 2010 to provide strong support for clients’ research projects. Since its inception, E2E has evolved from a support system into a trusted agency that interprets data insights. Today, E2E is a one-stop solution for various industries, helping them make informed decisions. The global voice of the data, research and insights community providing ethical and professional guidance. We are committed to the ICC International Code on Market, Opinion and Social Research, and Data Analytics. ",
+    "url": "/about"
+  },
+  {
+    "title": "Join Our Team: A Commitment to Diversity and Excellence| E2E Research",
+    "description": "Be part of a diverse team focused on delivering exceptional research experiences. We prioritize employee well-being and welcome fresh ideas. Explore opportunities now!",
+    "url": "/careers"
+  },
+  {
+    "title": "Discover E2E Research: Your Contact Guide| E2E Research",
+    "description": "Reach out to E2E Research for comprehensive support on our products and services. We are here to help you with all your research needs.",
+    "url": "/contact"
+  },
+  {
+    "title": " E2E's Approach to Ethical Data Usage| E2E Research",
+    "description": "E2E specializes in global research and analytics, focusing on effective marketing solutions and safeguarding consumer data privacy with responsible information handling practices.",
+    "url": "/policies"
+  }
+]

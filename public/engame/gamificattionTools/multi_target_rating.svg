@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 142.894 147.252">
+  <defs>
+    <filter id="Ellipse_62" x="90.289" y="87.3" width="16.808" height="16.808" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.761"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_63" x="19.943" y="74.016" width="16.808" height="16.808" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-2"/>
+      <feFlood flood-opacity="0.761"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_64" x="50.94" y="130.444" width="16.808" height="16.808" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-3"/>
+      <feFlood flood-opacity="0.761"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Multi_Target_Rating" transform="translate(-21.344 -22.004)" style="mix-blend-mode: luminosity;isolation: isolate">
+    <g id="Group_101" data-name="Group 101" transform="translate(21.844 22.504)">
+      <rect id="Rectangle_296" data-name="Rectangle 296" width="136.634" height="30.094" rx="2" transform="translate(0 0)" fill="#fff" stroke="#cfcfce" stroke-width="1"/>
+      <rect id="Rectangle_295" data-name="Rectangle 295" width="136.634" height="30.094" rx="2" transform="translate(3.07 3.07)" fill="#fff" stroke="#cfcfce" stroke-width="1"/>
+      <rect id="Rectangle_156" data-name="Rectangle 156" width="136.634" height="30.094" rx="2" transform="translate(5.759 5.772)" fill="#cfcfce"/>
+      <g id="drag" transform="matrix(0.883, -0.469, 0.469, 0.883, 57.803, 16.15)">
+        <path id="Path_416" data-name="Path 416" d="M.405,1.823H1.418a.406.406,0,0,0,.405-.405V.405a.405.405,0,0,0-.81,0v.608H.405a.405.405,0,0,0,0,.81Z" transform="translate(9.579 5.531)" fill="#42424f"/>
+        <path id="Path_417" data-name="Path 417" d="M.405,1.823A.406.406,0,0,0,.81,1.418V.81h.608a.405.405,0,0,0,0-.81H.405A.406.406,0,0,0,0,.405V1.418A.406.406,0,0,0,.405,1.823Z" transform="translate(4.047 0)" fill="#42424f"/>
+        <path id="Path_418" data-name="Path 418" d="M.405.81H1.54a.405.405,0,0,0,0-.81H.405a.405.405,0,1,0,0,.81Z" transform="translate(6.762 0)" fill="#42424f"/>
+        <path id="Path_419" data-name="Path 419" d="M.405.81h.608v.608a.405.405,0,0,0,.81,0V.405A.406.406,0,0,0,1.418,0H.405a.405.405,0,0,0,0,.81Z" transform="translate(9.579 0)" fill="#42424f"/>
+        <path id="Path_420" data-name="Path 420" d="M.405,0A.406.406,0,0,0,0,.405V1.54a.405.405,0,1,0,.81,0V.405A.406.406,0,0,0,.405,0Z" transform="translate(10.592 2.715)" fill="#42424f"/>
+        <path id="Path_421" data-name="Path 421" d="M13.57,11.853a1.539,1.539,0,0,0-1.54-1.54,1.512,1.512,0,0,0-.851.263,1.561,1.561,0,0,0-1.418-.932,1.512,1.512,0,0,0-.851.263,1.561,1.561,0,0,0-1.418-.932,1.5,1.5,0,0,0-.729.182V7.4H8.485A.406.406,0,0,0,8.89,6.99V.405A.406.406,0,0,0,8.485,0H1.92a.406.406,0,0,0-.405.405V6.95a.406.406,0,0,0,.405.405H3.662v6.058L2.649,12.42a1.538,1.538,0,0,0-1.965-.182,1.529,1.529,0,0,0-.669,1.074A1.572,1.572,0,0,0,.36,14.527L2.1,16.594a.391.391,0,0,0,.3.142.427.427,0,0,0,.263-.1.393.393,0,0,0,.041-.567L.988,14.021a.681.681,0,0,1-.162-.588A.76.76,0,0,1,2.1,13.008l1.256,1.236a.689.689,0,0,0,.729.142.671.671,0,0,0,.405-.628V5.693a.726.726,0,0,1,.729-.729.658.658,0,0,1,.507.223.736.736,0,0,1,.223.527v5.531a.405.405,0,1,0,.81,0V10.5a.729.729,0,0,1,1.459,0v1.439a.405.405,0,1,0,.81,0v-.75a.729.729,0,1,1,1.459,0v1.439a.405.405,0,0,0,.81,0v-.75a.729.729,0,0,1,1.459,0v4.458a.405.405,0,1,0,.81,0ZM5.2,4.154a1.539,1.539,0,0,0-1.54,1.54v.851H2.325V.81H8.059V6.544H6.742V5.693A1.566,1.566,0,0,0,6.3,4.6,1.531,1.531,0,0,0,5.2,4.154Z" transform="translate(0 2.533)" fill="#42424f"/>
+      </g>
+    </g>
+    <ellipse id="Ellipse_61" data-name="Ellipse 61" cx="49" cy="48.5" rx="49" ry="48.5" transform="translate(43 69)" fill="#f15a5c"/>
+    <g id="Ellipse_60" data-name="Ellipse 60" transform="translate(52 78)" fill="#f15a5c" stroke="#fff" stroke-width="9">
+      <ellipse cx="40.5" cy="40" rx="40.5" ry="40" stroke="none"/>
+      <ellipse cx="40.5" cy="40" rx="36" ry="35.5" fill="none"/>
+    </g>
+    <circle id="Ellipse_59" data-name="Ellipse 59" cx="18.346" cy="18.346" r="18.346" transform="translate(74.236 99.995)" fill="#f15a5c" stroke="#fff" stroke-width="9"/>
+    <g transform="matrix(1, 0, 0, 1, 21.34, 22)" filter="url(#Ellipse_62)">
+      <circle id="Ellipse_62-2" data-name="Ellipse 62" cx="2.404" cy="2.404" r="2.404" transform="translate(96.29 93.3)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 21.34, 22)" filter="url(#Ellipse_63)">
+      <circle id="Ellipse_63-2" data-name="Ellipse 63" cx="2.404" cy="2.404" r="2.404" transform="translate(25.94 80.02)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 21.34, 22)" filter="url(#Ellipse_64)">
+      <circle id="Ellipse_64-2" data-name="Ellipse 64" cx="2.404" cy="2.404" r="2.404" transform="translate(56.94 136.44)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

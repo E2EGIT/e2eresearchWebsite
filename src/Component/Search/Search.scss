@@ -1,0 +1,128 @@
+.seach-blk {
+  position: relative;
+  .search-container {
+    position: absolute;
+    right: 40px;
+    top: 0px;
+    @include breakpoint(4kscreen) {
+      right: 90px;
+      top: 2px;
+    }
+
+    .search-btn {
+      position: relative;
+      z-index: 1;
+      cursor: pointer;
+      width: 20px;
+      height: 20px;
+      @include breakpoint(mobile) {
+        // right: 32px;
+        height: 18px;
+        width: 18px;
+      }
+    }
+    @include breakpoint(mobile) {
+      right: 32px;
+      top: -1px;
+    }
+
+    .search {
+      position: absolute;
+      background-color: #f8f8f8;
+      outline: none;
+      border: none;
+      padding: 0.75rem 0;
+
+      @include breakpoint(mobile) {
+        padding: 0.5rem 0;
+        font-size: 13px;
+      }
+      @include breakpoint(4kscreen) {
+        padding: 1.75rem 0;
+      }
+
+      width: 0;
+      z-index: 10;
+      transition-duration: 0.4s;
+      -moz-transition-duration: 0.4s;
+      -webkit-transition-duration: 0.4s;
+      -o-transition-duration: 0.4s;
+      &:focus {
+        width: 42rem;
+        padding: 0.75rem 1.9rem 0.75rem 0.75rem;
+        border: 1px solid #e3e3e3;
+        border-radius: 5px;
+        animation-name: search_border;
+        animation-duration: 0.4s;
+        animation-fill-mode: forwards;
+        @include breakpoint(mobile) {
+          padding: 0.5rem 1.9rem 0.5rem 0.5rem;
+          width: 8rem;
+        }
+
+        @include breakpoint(mobile-land) {
+          padding: 0.5rem 1.9rem 0.5rem 0.5rem;
+          width: 20rem;
+        }
+
+        @include breakpoint(common_device) {
+          width: 25rem;
+        }
+        @include breakpoint(4kscreen) {
+          padding: 1.75rem;
+        }
+
+        + .search-btn {
+          transition-duration: 0.4s;
+          -moz-transition-duration: 0.4s;
+          -webkit-transition-duration: 0.4s;
+          -o-transition-duration: 0.4s;
+          color: $black-color;
+          cursor: default;
+          // @include breakpoint(4kscreen) {
+          //   right: 20px;
+          //   top: 10px;
+          // }
+        }
+      }
+    }
+
+    .expandright {
+      left: auto;
+      right: -12px;
+      top: -12px;
+      z-index: 0;
+      transform: translate(-6px, 0px);
+
+      // @include breakpoint(mobile) {
+      //   transform: translate(-12px, 1px);
+      // }
+      @include breakpoint(mobile) {
+        top: -6px;
+      }
+
+      @include breakpoint(4kscreen) {
+        right: -30px;
+        top: -19px;
+      }
+    }
+
+    .search-svg {
+      stroke: $primary-color;
+
+      @include breakpoint(4kscreen) {
+        width: 40px;
+        height: 40px;
+      }
+    }
+  }
+}
+
+@keyframes search_border {
+  from {
+    border: 1px solid #e3e3e3;
+  }
+  to {
+    border: 1px solid #e3e3e3;
+  }
+}

@@ -1,0 +1,14 @@
+.dataCollectionMobileCarousel {
+  display: none;
+  @media (min-width: 320px) and (max-width: 1024px) {
+    display: block;
+    width: calc(100% - 45px) !important;
+  }
+}
+
+.data-collection-nav.dataCollectionDesktopCarousel {
+  display: flex;
+  @media (min-width: 320px) and (max-width: 1024px) {
+    display: none;
+  }
+}

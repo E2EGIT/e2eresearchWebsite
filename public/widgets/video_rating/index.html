@@ -1,0 +1,87 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Video Rating with Slider</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script
+      type="text/javascript"
+      src="js/iphone-inline-video.browser.js"
+    ></script>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery_ui.js"></script>
+    <script
+      type="text/javascript"
+      src="js/jquery.ui.touch-punch.min.js"
+    ></script>
+    <script type="text/javascript" src="js/slider_pips.js"></script>
+    <script src="js/jquery-3.2.1.js"></script>
+    <script src="js/roundslider.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="./css/jqueryui.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="./css/jquery-ui-slider-pips.css"
+    />
+    <link rel="stylesheet" type="text/css" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/roundslider.min.css" />
+    <link rel="stylesheet" href="./css/custom.min.css" />
+    <script src="js/custom-script.js"></script>
+
+    <script>
+      // var optionshow = false; //pass true for 7 option  and false for 3 option show
+      var defaultrate = 1;
+      var flagAftr = 3; //data goes seconds
+      var flagTxt = "Don't forget to keep rating the video";
+      var flagHide = 1; //0 for hide //1 for show
+      var ratingTitle = "Rate your experience";
+      var backpunch = false;
+      var backpunchData = "0:1,1:1,2:1,3:2,4:1,5:3,6:2,7:2";
+
+      var toolWidth = "";
+      var playBtnHeight = "";
+      var playBtnWidth = "";
+      var playBtnBgcolor = "";
+
+      var rateTextFontSize = "";
+      var rateTextFontColor = "";
+      var rateTextFontFamily = "";
+      var rateTextFontWeight = "";
+
+      function recoreddata(data) {
+        $("#outputData").val(data);
+      }
+    </script>
+    <script>
+      // var widgetStatement = "Disagree Strongly|Confused|Agree Strongly";
+      var widgetStatement = "images/red.svg|images/yellow.svg|images/green.svg";
+      function output(outputValue) {
+        $(".output").val(outputValue);
+      }
+    </script>
+  </head>
+
+  <body>
+    <div class="title-toll">
+      While you watch the commercial, click on the 3 face emoticons to show how
+      much you like or dislike each part.
+    </div>
+    <div class="respondent-infos">
+      You may click on and change the emoticons as many times as you wish.
+    </div>
+
+    <div class="video_rating_tool"></div>
+    <div class="cleaAllHeitght"></div>
+    <div class="output_container">
+      <input type="hidden" id="outputData" name="outputData" />
+      <input type="hidden" id="EndData" name="EndData" />
+      <!-- <input type="text" id="clickval" name="clickval" style="width: 90%;" /> -->
+    </div>
+  </body>
+  <script src="js/videoApp.js"></script>
+</html>

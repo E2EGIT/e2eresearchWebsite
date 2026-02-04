@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>TER</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"
+    />
+    <link href="css/custom._dev.css" rel="stylesheet" />
+    <script src="js/jquery.min.js"></script>
+    <script type="text/javascript">
+      ratingImg =
+        "https://ui.e2eresearch.com/AdhocWork/YEAR_2023/NOV/implicitExreciese/image/1.png"; //image length more 1 to images hide
+      ratingText = "Cancer|Tumor|Hypotension|Bradycardia|Aneurysm|Ischemia";
+      startBtnText = "START";
+      pressHintLeft = "Z";
+      pressHintRight = "M";
+      strTextDisagree = "I Disagree";
+      strTextAgree = "I Agree";
+      var alertMessage = "Please Press only Z either M button to go ahead...";
+      btnBgColor = "#00b9e4";
+
+      randomizationVal = "0"; // 1 value for Random Val or viceversa
+
+      function outputValue(ratingVal, timeValue, countValue, completeValue) {
+        $("#OutputValue").val(ratingVal);
+        $("#OutputValue1").val(timeValue);
+        $("#counterValue").val(countValue);
+        $("#EndValue").val(completeValue);
+      }
+    </script>
+  </head>
+  <body>
+    <div class="popup hide" id="popupid"></div>
+    <div class="toolwaraper">
+      <div class="mainBlock"></div>
+    </div>
+
+    <script src="js/custom._dev.js"></script>
+
+    <div class="clearAll"></div>
+    <div style="width: 100%; bottom: 20px; margin-top: 50px; display: none">
+      <input type="hidden" id="OutputValue" style="width: 96%" />
+      <input type="hidden" id="OutputValue1" style="width: 96%" />
+      <input type="hidden" id="counterValue" value="" style="width: 96%" />
+      <input type="hidden" id="EndValue" value="" style="width: 96%" />
+    </div>
+  </body>
+</html>

@@ -1,0 +1,24 @@
+<svg id="SLM_white_Logo" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 106.986 30.984">
+  <g id="Group_1477" data-name="Group 1477" transform="translate(29.456 0.81)">
+    <g id="Group_1476" data-name="Group 1476">
+      <g id="Group_1475" data-name="Group 1475">
+        <g id="Group_1474" data-name="Group 1474">
+          <g id="Group_1473" data-name="Group 1473">
+            <path id="SLM" d="M6.574-11.742c1.444.342,3.724.114,5.092.912a2.447,2.447,0,0,1,1.14,2.2,2.879,2.879,0,0,1-2.85,2.888,8.6,8.6,0,0,1-5.89-2.318L0-3.99A14.342,14.342,0,0,0,9.956,0a8.644,8.644,0,0,0,8.626-8.626c0-4.864-3.61-8.132-8.322-8.36-1.444-.076-2.926-.266-3.838-1.292a3.032,3.032,0,0,1-.684-1.862,2.887,2.887,0,0,1,2.888-2.888,8.6,8.6,0,0,1,4.712,1.406l4.142-4.142A14.343,14.343,0,0,0,8.626-28.8,8.652,8.652,0,0,0,0-20.14,8.68,8.68,0,0,0,6.574-11.742ZM25.042,0H41.268V-5.776H30.78V-28.8H25.042ZM65.436,0l5.776-14.4V0H76.95V-28.8H70.756l-8.4,21.052L53.922-28.8H47.728V0h5.738V-14.4L59.242,0Z" transform="translate(0 29)" fill="#9fa8ae" stroke="#9fa8ae" stroke-width="1.16"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+  <g id="Group_1479" data-name="Group 1479">
+    <g id="Group_1478" data-name="Group 1478" transform="translate(7.242)">
+      <path id="Path_1302" data-name="Path 1302" d="M96.738,1571.695a1.365,1.365,0,1,1-1.365-1.365,1.365,1.365,0,0,1,1.365,1.365Z" transform="translate(-94.008 -1570.33)" fill="#9fa8ae"/>
+      <rect id="Rectangle_1420" data-name="Rectangle 1420" width="12.718" height="2.379" transform="translate(4.709 0.175)" fill="#9fa8ae"/>
+      <circle id="Ellipse_37" data-name="Ellipse 37" cx="1.365" cy="1.365" r="1.365" transform="translate(0 8.225)" fill="#9fa8ae"/>
+      <path id="Path_1303" data-name="Path 1303" d="M121.568,1607.076h-8.3V1604.7h10.1" transform="translate(-108.564 -1596.297)" fill="#9fa8ae"/>
+      <path id="Path_1304" data-name="Path 1304" d="M96.738,1588.586a1.365,1.365,0,1,1-1.365-1.365A1.365,1.365,0,0,1,96.738,1588.586Z" transform="translate(-94.008 -1583.092)" fill="#9fa8ae"/>
+      <path id="Path_1305" data-name="Path 1305" d="M123.716,1590.317H113.273v-2.379H125.99" transform="translate(-108.564 -1583.634)" fill="#9fa8ae"/>
+    </g>
+    <path id="Path_1306" data-name="Path 1306" d="M64.381,1619.315l15.919,13.7,10.33-15.54-.375-5.191-9.687,12.948-12.72-6.864" transform="translate(-64.381 -1602.026)" fill="#f05b5b"/>
+  </g>
+</svg>

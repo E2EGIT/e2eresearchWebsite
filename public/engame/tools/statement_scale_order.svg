@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 191 104">
+  <g id="Group_58072" data-name="Group 58072" transform="translate(-242 -2006)" style="mix-blend-mode: luminosity;isolation: isolate">
+    <g id="Group_58065" data-name="Group 58065" transform="translate(1 23)">
+      <rect id="Rectangle_33326" data-name="Rectangle 33326" width="89" height="25" rx="5" transform="translate(241 1983)" fill="#fcad31"/>
+      <rect id="Rectangle_33327" data-name="Rectangle 33327" width="10" height="11" transform="translate(251 1990)" fill="#fff"/>
+    </g>
+    <g id="Group_58066" data-name="Group 58066" transform="translate(1 63)">
+      <rect id="Rectangle_33326-2" data-name="Rectangle 33326" width="89" height="25" rx="5" transform="translate(241 1983)" fill="#fcad31"/>
+      <rect id="Rectangle_33327-2" data-name="Rectangle 33327" width="10" height="11" transform="translate(251 1990)" fill="#fff"/>
+    </g>
+    <g id="Group_58067" data-name="Group 58067" transform="translate(1 102)">
+      <rect id="Rectangle_33326-3" data-name="Rectangle 33326" width="89" height="25" rx="5" transform="translate(241 1983)" fill="#fcad31"/>
+      <rect id="Rectangle_33327-3" data-name="Rectangle 33327" width="10" height="11" transform="translate(251 1990)" fill="#fff"/>
+    </g>
+    <g id="Group_58068" data-name="Group 58068" transform="translate(103 23)">
+      <rect id="Rectangle_33326-4" data-name="Rectangle 33326" width="89" height="25" rx="5" transform="translate(241 1983)" fill="#acacac"/>
+      <rect id="Rectangle_33327-4" data-name="Rectangle 33327" width="10" height="11" transform="translate(251 1990)" fill="#fff"/>
+    </g>
+    <g id="Group_58069" data-name="Group 58069" transform="translate(103 63)">
+      <rect id="Rectangle_33326-5" data-name="Rectangle 33326" width="89" height="25" rx="5" transform="translate(241 1983)" fill="#acacac"/>
+      <rect id="Rectangle_33327-5" data-name="Rectangle 33327" width="10" height="11" transform="translate(251 1990)" fill="#fff"/>
+    </g>
+    <g id="Group_58070" data-name="Group 58070" transform="translate(103 102)">
+      <rect id="Rectangle_33326-6" data-name="Rectangle 33326" width="89" height="25" rx="5" transform="translate(241 1983)" fill="#acacac"/>
+      <rect id="Rectangle_33327-6" data-name="Rectangle 33327" width="10" height="11" transform="translate(251 1990)" fill="#fff"/>
+    </g>
+    <g id="Group_58071" data-name="Group 58071" transform="translate(0 -46.159)">
+      <path id="Path_51084" data-name="Path 51084" d="M289,2052.691l23.674-24.556v10.691h60.231v-10.691l26.789,24.556-26.789,28.968v-10.8H312.674v10.8Z" transform="translate(-0.665 46.023)" fill="#f05a5c"/>
+      <text id="A" transform="translate(312 2108.159)" fill="#fff" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-7" y="0">A</tspan></text>
+      <text id="Z" transform="translate(373 2108.159)" fill="#fff" font-size="20" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-5" y="0">Z</tspan></text>
+    </g>
+  </g>
+</svg>

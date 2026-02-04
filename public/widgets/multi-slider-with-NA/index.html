@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="css/jquery-ui.min.css" />
+    <script type="text/javascript" src="js/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="js/uiTooltipes.min.js"></script>
+    <link rel="stylesheet" href="css/uislider_style.min.css" type="text/css" />
+    <title>Multi Slider With NA</title>
+    <script type="text/javascript">
+      var statementText =
+        "Company~Apathetic~Passionate|Company~Distant~Approachable|Company~Inconsistent~Reliable|Company~Lethargic~Ambitious|Company~Pessimistic~Optimistic|Company~Unimaginative~Creative|Company~Timid~Brave|Company~Old-fashion~Innovative";
+      var fontFamily = "Arial";
+      var fontColor = "#515151";
+      var fontSize = "15";
+      var randomizationVal = 0;
+      var startFrom = 5;
+
+      function outputVal(data) {
+        $("#outputValue").val(data);
+      }
+    </script>
+  </head>
+
+  <body>
+    <table
+      id="binddata"
+      width="100%"
+      border="0"
+      cellspacing="0"
+      cellpadding="0">
+      <tbody></tbody>
+    </table>
+
+    <input
+      type="hidden"
+      id="outputValue"
+      name="outputValue"
+      style="width: 90%" />
+  </body>
+</html>

@@ -1,0 +1,114 @@
+.survey-scripting {
+  h6 {
+    font-weight: 600;
+    margin-bottom: 0;
+  }
+  p {
+    margin-bottom: 0;
+  }
+  .card-wrapper {
+    h6 {
+      text-align: center;
+    }
+    p {
+      text-align: center;
+      margin-bottom: 0;
+    }
+    svg {
+      width: 3.5rem;
+      height: 3.5rem;
+      margin-bottom: 15px;
+      @include breakpoint(4kscreen) {
+        width: 5.5rem;
+        height: 5.5rem;
+      }
+      @media (min-width: 1025px) and (max-width: 1094px) {
+        transform: scale(1);
+        width: 4rem;
+        height: 4rem;
+      }
+    }
+  }
+  .sec-blk-row {
+    margin-top: 25px;
+    margin-bottom: 50px;
+    @include breakpoint(mobile) {
+    margin-top: 15px;
+      margin-bottom: 30px;
+    }
+  }
+  .last-row-none {
+    margin-bottom: 0 !important;
+  }
+  .row-gap { 
+    gap: 28px 0 !important;
+    @include breakpoint(mobile) {
+      gap: 18px 0 !important;
+    }
+  }
+  .hedding-sb-head {
+    margin-top: 50px;
+    @include breakpoint(mobile) {
+      margin-top: 30px;
+    }
+    @include breakpoint(mobile_land) {
+      margin-top: 30px;
+    }
+    h6 {
+      margin-bottom: 15px;
+      @include breakpoint(mobile) {
+        margin-bottom: 10px;
+      }
+      @include breakpoint(mobile_land) {
+        margin-bottom: 10px;
+      }
+      @include breakpoint(common_device) {
+        margin-bottom: 10px;
+      }
+    }
+  }
+  .dashboard-head {
+    h6 {
+      margin-bottom: 15px;
+      @include breakpoint(mobile) {
+        margin-top: 10px;
+      }
+      @include breakpoint(mobile_land) {
+        margin-top: 10px;
+      }
+    }
+    p {
+      margin-bottom: 15px;
+      @include breakpoint(mobile) {
+        margin-top: 10px;
+      }
+      @include breakpoint(mobile_land) {
+        margin-top: 10px;
+      }
+    }
+  }
+  .card-wrapper {
+    h6 {
+      margin-bottom: 15px;
+      @include breakpoint(mobile) {
+        margin-top: 10px;
+      }
+      @include breakpoint(mobile_land) {
+        margin-top: 10px;
+      }
+    }
+  }
+  .margin-b {
+    p {
+      margin-bottom: 0 !important;
+    }
+  }
+}
+.tab-content {
+  .survey-scripting {
+    padding-bottom: 5.5rem;
+    @include breakpoint(mobile) {
+      padding-bottom: 2.5rem;
+    }
+  }
+}

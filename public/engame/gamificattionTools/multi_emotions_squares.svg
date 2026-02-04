@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 268.165 116">
+  <defs>
+    <filter id="Rectangle_30269">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.4" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_30269-2">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-opacity="0.4" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_30269-3">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-3"/>
+      <feFlood flood-opacity="0.4" result="color-3"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-3"/>
+      <feComposite operator="in" in="color-3"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Multi_Emotions_Squares" transform="translate(9.922 -56)" style="mix-blend-mode: luminosity;isolation: isolate">
+    <g id="Group_2235" data-name="Group 2235" transform="translate(-9.922 63.587)">
+      <g data-type="innerShadowGroup">
+        <rect id="Rectangle_30269-4" data-name="Rectangle 30269" width="100.182" height="100.182" rx="5" fill="#fff"/>
+        <g transform="matrix(1, 0, 0, 1, 0, -7.59)" filter="url(#Rectangle_30269)">
+          <rect id="Rectangle_30269-5" data-name="Rectangle 30269" width="100.182" height="100.182" rx="5" transform="translate(0 7.59)" fill="#fff"/>
+        </g>
+        <g id="Rectangle_30269-6" data-name="Rectangle 30269" fill="none" stroke="#cfcfce" stroke-width="0.3">
+          <rect width="100.182" height="100.182" rx="5" stroke="none"/>
+          <rect x="0.15" y="0.15" width="99.882" height="99.882" rx="4.85" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_2236" data-name="Group 2236" transform="translate(55.783 9.107)">
+        <g id="Rectangle_30270" data-name="Rectangle 30270" fill="#ffe5e5" stroke="#f98787" stroke-width="1">
+          <rect width="35.291" height="13.661" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="34.291" height="12.661" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271" data-name="Line 271" x2="23.907" transform="translate(5.692 6.831)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2240" data-name="Group 2240" transform="translate(55.783 54.645)">
+        <g id="Rectangle_30270-2" data-name="Rectangle 30270" transform="translate(0 0)" fill="#ffe5e5" stroke="#f98787" stroke-width="1">
+          <rect width="35.291" height="13.661" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="34.291" height="12.661" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-2" data-name="Line 271" x2="23.907" transform="translate(5.692 6.831)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2239" data-name="Group 2239" transform="translate(55.783 31.876)">
+        <g id="Rectangle_30270-3" data-name="Rectangle 30270" transform="translate(0 0)" fill="#ffe5e5" stroke="#f98787" stroke-width="1">
+          <rect width="35.291" height="13.661" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="34.291" height="12.661" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-3" data-name="Line 271" x2="23.907" transform="translate(5.692 6.831)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2241" data-name="Group 2241" transform="translate(55.783 77.413)">
+        <g id="Rectangle_30270-4" data-name="Rectangle 30270" transform="translate(0 0)" fill="#ffe5e5" stroke="#f98787" stroke-width="1">
+          <rect width="35.291" height="13.661" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="34.291" height="12.661" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-4" data-name="Line 271" x2="23.907" transform="translate(5.692 6.831)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2237" data-name="Group 2237" transform="translate(9.107 9.107)">
+        <g id="Rectangle_30270-5" data-name="Rectangle 30270" fill="#ffe5e5" stroke="#f98787" stroke-width="1">
+          <rect width="35.291" height="13.661" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="34.291" height="12.661" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-5" data-name="Line 271" x2="23.907" transform="translate(5.692 6.831)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2242" data-name="Group 2242" transform="translate(9.107 54.645)">
+        <g id="Rectangle_30270-6" data-name="Rectangle 30270" transform="translate(0 0)" fill="#ffe5e5" stroke="#f98787" stroke-width="1">
+          <rect width="35.291" height="13.661" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="34.291" height="12.661" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-6" data-name="Line 271" x2="23.907" transform="translate(5.692 6.831)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2238" data-name="Group 2238" transform="translate(9.107 31.876)">
+        <g id="Rectangle_30270-7" data-name="Rectangle 30270" transform="translate(0 0)" fill="#ffe5e5" stroke="#f98787" stroke-width="1">
+          <rect width="35.291" height="13.661" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="34.291" height="12.661" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-7" data-name="Line 271" x2="23.907" transform="translate(5.692 6.831)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2243" data-name="Group 2243" transform="translate(9.107 77.413)">
+        <g id="Rectangle_30270-8" data-name="Rectangle 30270" transform="translate(0 0)" fill="#ffe5e5" stroke="#f98787" stroke-width="1">
+          <rect width="35.291" height="13.661" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="34.291" height="12.661" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-8" data-name="Line 271" x2="23.907" transform="translate(5.692 6.831)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_2227" data-name="Group 2227" transform="translate(158.061 63.989)">
+      <g data-type="innerShadowGroup">
+        <rect id="Rectangle_30269-7" data-name="Rectangle 30269" width="100.182" height="100.182" rx="5" fill="#fff"/>
+        <g transform="matrix(1, 0, 0, 1, -167.98, -7.99)" filter="url(#Rectangle_30269-2)">
+          <rect id="Rectangle_30269-8" data-name="Rectangle 30269" width="100.182" height="100.182" rx="5" transform="translate(167.98 7.99)" fill="#fff"/>
+        </g>
+        <g id="Rectangle_30269-9" data-name="Rectangle 30269" fill="none" stroke="#cfcfce" stroke-width="0.3">
+          <rect width="100.182" height="100.182" rx="5" stroke="none"/>
+          <rect x="0.15" y="0.15" width="99.882" height="99.882" rx="4.85" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_2218" data-name="Group 2218" transform="translate(9.214 9.214)">
+        <g id="Rectangle_30270-9" data-name="Rectangle 30270" fill="#e3b959" stroke="#e3b959" stroke-width="1">
+          <rect width="35.703" height="13.821" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="34.703" height="12.821" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-9" data-name="Line 271" x2="24.186" transform="translate(5.759 6.91)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2230" data-name="Group 2230" transform="translate(9.214 31.817)">
+        <g id="Rectangle_30270-10" data-name="Rectangle 30270" transform="translate(0 0)" fill="#fff4d9" stroke="#e3b959" stroke-width="1">
+          <rect width="35.703" height="13.821" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="34.703" height="12.821" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-10" data-name="Line 271" x2="24.186" transform="translate(5.759 6.91)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2232" data-name="Group 2232" transform="translate(9.214 54.544)">
+        <g id="Rectangle_30270-11" data-name="Rectangle 30270" fill="#fff4d9" stroke="#e3b959" stroke-width="1">
+          <rect width="35.703" height="13.821" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="34.703" height="12.821" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-11" data-name="Line 271" x2="24.186" transform="translate(5.759 6.91)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2234" data-name="Group 2234" transform="translate(9.214 77.147)">
+        <g id="Rectangle_30270-12" data-name="Rectangle 30270" transform="translate(0 0)" fill="#fff4d9" stroke="#e3b959" stroke-width="1">
+          <rect width="35.703" height="13.821" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="34.703" height="12.821" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-12" data-name="Line 271" x2="24.186" transform="translate(5.759 6.91)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2228" data-name="Group 2228" transform="translate(55.265 9.214)">
+        <g id="Rectangle_30270-13" data-name="Rectangle 30270" fill="#fff4d9" stroke="#e3b959" stroke-width="1">
+          <rect width="35.703" height="13.821" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="34.703" height="12.821" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-13" data-name="Line 271" x2="24.186" transform="translate(5.759 6.91)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2229" data-name="Group 2229" transform="translate(55.265 31.817)">
+        <g id="Rectangle_30270-14" data-name="Rectangle 30270" transform="translate(0 0)" fill="#e3b959" stroke="#e3b959" stroke-width="1">
+          <rect width="35.703" height="13.821" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="34.703" height="12.821" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-14" data-name="Line 271" x2="24.186" transform="translate(5.759 6.91)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2231" data-name="Group 2231" transform="translate(55.265 54.544)">
+        <g id="Rectangle_30270-15" data-name="Rectangle 30270" fill="#fff4d9" stroke="#e3b959" stroke-width="1">
+          <rect width="35.703" height="13.821" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="34.703" height="12.821" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-15" data-name="Line 271" x2="24.186" transform="translate(5.759 6.91)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2233" data-name="Group 2233" transform="translate(55.265 77.147)">
+        <g id="Rectangle_30270-16" data-name="Rectangle 30270" transform="translate(0 0)" fill="#e3b959" stroke="#e3b959" stroke-width="1">
+          <rect width="35.703" height="13.821" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="34.703" height="12.821" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-16" data-name="Line 271" x2="24.186" transform="translate(5.759 6.91)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Group_2226" data-name="Group 2226" transform="translate(66.183 56)">
+      <g data-type="innerShadowGroup">
+        <rect id="Rectangle_30269-10" data-name="Rectangle 30269" width="116" height="116" rx="5" transform="translate(-0.183)" fill="#fff"/>
+        <g transform="matrix(1, 0, 0, 1, -76.11, 0)" filter="url(#Rectangle_30269-3)">
+          <rect id="Rectangle_30269-11" data-name="Rectangle 30269" width="116" height="116" rx="5" transform="translate(75.92)" fill="#fff"/>
+        </g>
+        <g id="Rectangle_30269-12" data-name="Rectangle 30269" transform="translate(-0.183)" fill="none" stroke="#cfcfce" stroke-width="0.3">
+          <rect width="116" height="116" rx="5" stroke="none"/>
+          <rect x="0.15" y="0.15" width="115.7" height="115.7" rx="4.85" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_2218-2" data-name="Group 2218" transform="translate(10.545 10.545)">
+        <g id="Rectangle_30270-17" data-name="Rectangle 30270" transform="translate(0.272 0.454)" fill="#f6f9e5" stroke="#c6d47f" stroke-width="1">
+          <rect width="41" height="15" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="40" height="14" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-17" data-name="Line 271" x2="28" transform="translate(6.272 7.454)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2220" data-name="Group 2220" transform="translate(10.545 36.909)">
+        <g id="Rectangle_30270-18" data-name="Rectangle 30270" transform="translate(0.272 0.091)" fill="#f6f9e5" stroke="#c6d47f" stroke-width="1">
+          <rect width="41" height="16" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="40" height="15" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-18" data-name="Line 271" x2="28" transform="translate(6.272 8.091)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2222" data-name="Group 2222" transform="translate(10.545 63.273)">
+        <g id="Rectangle_30270-19" data-name="Rectangle 30270" transform="translate(0.272 -0.272)" fill="#c6d47f" stroke="#c6d47f" stroke-width="1">
+          <rect width="41" height="16" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="40" height="15" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-19" data-name="Line 271" x2="28" transform="translate(6.272 7.728)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2224" data-name="Group 2224" transform="translate(10.545 89.636)">
+        <g id="Rectangle_30270-20" data-name="Rectangle 30270" transform="translate(0.272 0.363)" fill="#f6f9e5" stroke="#c6d47f" stroke-width="1">
+          <rect width="41" height="15" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="40" height="14" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-20" data-name="Line 271" x2="28" transform="translate(6.272 8.363)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2219" data-name="Group 2219" transform="translate(64.591 10.545)">
+        <g id="Rectangle_30270-21" data-name="Rectangle 30270" transform="translate(0.226 0.454)" fill="#f6f9e5" stroke="#c6d47f" stroke-width="1">
+          <rect width="41" height="15" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="40" height="14" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-21" data-name="Line 271" x2="28" transform="translate(6.226 7.454)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2221" data-name="Group 2221" transform="translate(64.591 36.909)">
+        <g id="Rectangle_30270-22" data-name="Rectangle 30270" transform="translate(0.226 0.091)" fill="#c6d47f" stroke="#c6d47f" stroke-width="1">
+          <rect width="41" height="16" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="40" height="15" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-22" data-name="Line 271" x2="28" transform="translate(6.226 8.091)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2223" data-name="Group 2223" transform="translate(64.591 63.273)">
+        <g id="Rectangle_30270-23" data-name="Rectangle 30270" transform="translate(0.226 -0.272)" fill="#c6d47f" stroke="#c6d47f" stroke-width="1">
+          <rect width="41" height="16" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="40" height="15" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-23" data-name="Line 271" x2="28" transform="translate(6.226 7.728)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+      <g id="Group_2225" data-name="Group 2225" transform="translate(64.591 89.636)">
+        <g id="Rectangle_30270-24" data-name="Rectangle 30270" transform="translate(0.226 0.363)" fill="#f6f9e5" stroke="#c6d47f" stroke-width="1">
+          <rect width="41" height="15" rx="3" stroke="none"/>
+          <rect x="0.5" y="0.5" width="40" height="14" rx="2.5" fill="none"/>
+        </g>
+        <line id="Line_271-24" data-name="Line 271" x2="28" transform="translate(6.226 8.363)" fill="none" stroke="#9d9ea0" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

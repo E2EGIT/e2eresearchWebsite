@@ -1,0 +1,114 @@
+.custom-bred {
+  background-color: $gray-background;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  @include breakpoint(4kscreen) {
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+
+  .breadcrumb {
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+  }
+
+  .not-active {
+    a {
+      text-decoration: none;
+      color: $black-color;
+      padding-left: 8px;
+    }
+    span {
+      color: $breadcrumb-link-color;
+    }
+  }
+  .home-icon {
+    width: 15px;
+    fill: #505050;
+    &:hover {
+      fill: $primary-color;
+    }
+    @include breakpoint(mobile) {
+      width: 12px;
+    }
+    @include breakpoint(4kscreen) {
+      width: 25px;
+    }
+  }
+  .active-link {
+    span {
+      margin-left: 10px;
+      color: $black-color !important;
+      font-weight: 400;
+      line-height: 1;
+      @include breakpoint(mobile) {
+        margin-left: 0;
+        // font-size: 0.75rem;
+      }
+    }
+  }
+}
+.link,
+.breadcrumb-item {
+  display: flex;
+  align-items: center;
+  span {
+    font-size: 14px;
+    line-height: 20px;
+    @include breakpoint(mobile) {
+      font-size: 12px;
+    }
+    @media (min-width: 1025px) and (max-width: 1094px) {
+      font-size: 13px;
+    }
+    @include breakpoint(smScreen) {
+      font-size: 13px;
+    }
+    @include breakpoint(smLaptop) {
+      font-size: 13px;
+    }
+    // @include breakpoint(2kscreen) {
+    //   font-size: 16px;
+    // }
+    @include breakpoint(4kscreen) {
+      font-size: 26px;
+    }
+  }
+  a {
+    cursor: pointer;
+    z-index: 1;
+    svg {
+      transition: 0.3s all;
+    }
+    &:hover {
+      svg {
+        fill: $primary-color;
+      }
+    }
+  }
+  &::before {
+    padding: 5px 12px 0 10px;
+    font-size: 14px;
+    color: $breadcrumb-link-color !important;
+    font-weight: 300;
+    line-height: 20px;
+    @include breakpoint(mobile) {
+      font-size: 12px;
+      padding: 4px 0px 0 4px;
+    }
+    @include breakpoint(common_device) {
+      font-size: 13px;
+    }
+
+    @include breakpoint(2kscreen) {
+      font-size: 16px;
+    }
+    @include breakpoint(4kscreen) {
+      padding-top: 0;
+      padding-bottom: 0;
+      margin-right: 10px;
+      font-size: 18px;
+    }
+  }
+}

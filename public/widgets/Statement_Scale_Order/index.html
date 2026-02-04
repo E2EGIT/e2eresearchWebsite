@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<head><title>Sorting Order Drag and Drop</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link type="text/css" href="css/jquery-ui-1.8.16.custom.min.css" rel="stylesheet" />	
+<script type="text/javascript" src="js/jquery-1.6.2.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui-1.8.16.custom.min.js"></script>
+<script type="text/javascript" src="js/jquery-touch-punch.min.js"></script>
+<script type="text/javascript" src="js/script.min.js"></script>
+<style>
+	.header-nav {
+    /* display: inline-block; */
+    display: none;
+    width: 100%;
+}
+	.back-nav{
+		float: right;
+		cursor: pointer;
+	}
+	.back-nav a{
+		text-decoration: none;      
+		color: #6d5f24;          
+	}
+	.back-nav{
+		display: inline-block;
+		border:1px solid #c9ae34;
+		color: #705D07;
+		border-radius: 3px 3px 3px 3px;
+		-webkit-border-radius: 3px 3px 3px 3px;
+		-moz-border-radius: 3px 3px 3px 3px;
+		font-size: 14px;
+		letter-spacing: 0.04em;
+		text-transform: uppercase;
+		font-family: calibri;
+		padding: 10px 20px;
+		margin: 10px;
+		box-shadow: inset 0 1px 0 0 #fff6ce,inset 0 -1px 0 0 #e3c852,inset 0 0 0 1px #fce88d,0 2px 4px 0 #D4D4D4;
+		-moz-box-shadow: inset 0 1px 0 0 #fff6ce,inset 0 -1px 0 0 #e3c852,inset 0 0 0 1px #fce88d,0 2px 4px 0 #D4D4D4;
+		-webkit-box-shadow: inset 0 1px 0 0 #fff6ce,inset 0 -1px 0 0 #e3c852,inset 0 0 0 1px #fce88d,0 2px 4px 0 #D4D4D4;
+		background-image: linear-gradient(to top, #fce374, #fcdf5b);
+		background-color: #fce374;
+	}
+	.back-nav:hover, .back-nav:active{
+		border:1px solid #967d09;
+		color: #705D07;
+		box-shadow: inset 0 1px 0 0 #fff6ce,inset 0 -1px 0 0 #e3c852,inset 0 0 0 1px #fce88d;
+		-moz-box-shadow: inset 0 1px 0 0 #fff6ce,inset 0 -1px 0 0 #e3c852,inset 0 0 0 1px #fce88d;
+		-webkit-box-shadow: inset 0 1px 0 0 #fff6ce,inset 0 -1px 0 0 #e3c852,inset 0 0 0 1px #fce88d;
+		background-color: #fcdf5b;
+	}
+</style>
+<script type="text/javascript">
+var producttxt = "Statement -01|Statement -02|Statement -03|Statement -04|Statement -05|Statement -06";
+var productimg = "img1.jpg|img2.jpg|img3.jpg|img4.jpg|img5.jpg|img6.jpg"
+var minTxt = "Top Priority";
+var maxTxt = "Lowest Priority";
+var image = 0;   //0-> text only,  1-> image only, 2-> both/// 
+var flip = 0; 
+var lft_arrow = 1;
+var encirclednmbr = 1; 
+var imageW = 60;
+var imageH = 60;
+var listbgcolor = "#ffffff";
+var listbodrcolor = "#ff7d56;"; 
+
+var randomization = 1;     // 0-> not randomization, 1-> randomization      
+  
+var befrelistlnrgradnt = "#dddddd";
+var aftrelistlnrgradnt = "#ffa78b";
+</script>
+</head>
+<body>
+	
+
+<div class="tool-title">
+	Please rank each of the statements placed on your right hand side by dragging each statements to your left hand side in top to lowest priority order.
+</div>
+<div class="container clearfix">
+</div>
+
+
+<input id="mealitems" name="mealitems" type="hidden" size="47" />
+
+
+</body>
+</html>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="46.121" height="26.947" viewBox="0 0 46.121 26.947">
+  <defs>
+    <filter id="Icon_metro-video-camera" x="0" y="0" width="46.121" height="26.947" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="radial-gradient" cx="0.313" cy="0.109" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a2a1a1"/>
+      <stop offset="0.556" stop-color="#4f4f4f"/>
+      <stop offset="1" stop-color="#363636"/>
+    </radialGradient>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(1.5 0.5)">
+    <g transform="matrix(1, 0, 0, 1, -1.5, -0.5)" filter="url(#Icon_metro-video-camera)">
+      <path id="Icon_metro-video-camera-2" data-name="Icon metro-video-camera" d="M25.057,14.036Zm-15.873,0Zm25.132,8.487V17.431c0-1.867-1.19-3.395-2.645-3.395H5.216c-1.455,0-2.645,1.528-2.645,3.395V34.4c0,1.867,1.19,3.395,2.645,3.395H31.671c1.455,0,2.645-1.528,2.645-3.395V29.312S43.932,38.989,44.9,37.8s1.146-22.7,0-23.763-10.582,8.487-10.582,8.487Z" transform="translate(-1.07 -13.45)" fill="#fff"/>
+    </g>
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="2.5" cy="2.5" r="2.5" transform="translate(21.121 5.009)" fill="#363636"/>
+    <circle id="Ellipse_7" data-name="Ellipse 7" cx="1.5" cy="1.5" r="1.5" transform="translate(22.121 6.009)" fill="url(#radial-gradient)"/>
+  </g>
+</svg>

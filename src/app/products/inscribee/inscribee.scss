@@ -1,0 +1,235 @@
+.border-radious {
+  border-radius: 6px;
+}
+
+.setup-signature {
+  position: relative;
+  padding-top: 8rem;
+  padding-bottom: 6rem;
+  img {
+    transition: 0.3s all;
+    filter: grayscale(1);
+  }
+  &:hover {
+    img {
+      transition: 0.3s all;
+      filter: grayscale(0);
+    }
+  }
+}
+
+.safe-secure {
+  .image-box {
+    max-width: 515px;
+  }
+  .image-con {
+    width: 100%;
+    padding: 5px 3rem;
+    min-height: 175px;
+    @include breakpoint(mobile) {
+      min-height: 160px;
+      margin-top: 15px !important;
+    }
+    @media (min-width: 1025px) and (max-width: 1094px) {
+      padding: 5px 3rem;
+      min-height: 135px;
+    }
+    @include breakpoint(4kscreen) {
+      min-height: 285px;
+    }
+    img {
+      filter: grayscale(1);
+      @include breakpoint(mobile) {
+        object-fit: contain;
+        width: 250px;
+        // margin-top: 15px !important;
+      }
+      @media (min-width: 1025px) and (max-width: 1094px) {
+        max-width: 100%;
+      }
+    }
+    &:hover {
+      img {
+        transition: 0.3s all;
+        filter: grayscale(0);
+      }
+    }
+  }
+  @include breakpoint(mobile) {
+    padding-bottom: 2.75rem;
+  }
+}
+
+.inc-hedding h5 {
+  margin-bottom: 30px;
+  @include breakpoint(mobile) {
+    margin-bottom: 20px;
+  }
+  @include breakpoint(common_device) {
+    margin-bottom: 15px;
+  }
+}
+
+.ins-img {
+  background-color: $white-color;
+  box-shadow: 10px 10px 0px 0px rgba(226, 226, 226, 1);
+  -webkit-box-shadows: 10px 10px 0px 0px rgba(226, 226, 226, 1);
+  border-radius: 4px;
+  width: 420px;
+  height: 420px;
+  object-fit: cover;
+  margin: 0 auto;
+  position: relative;
+  z-index: 2;
+  @include breakpoint(mobile) {
+    width: calc(100% - 30px);
+    height: auto !important;
+  }
+  @include breakpoint(Ipad_port) {
+    width: calc(100% - 35px);
+    height: auto;
+  }
+  @include breakpoint(Ipad_land) {
+    width: 200px;
+    height: 200px;
+  }
+  @media (min-width: 1025px) and (max-width: 1094px) {
+    width: 200px;
+    height: 200px;
+  }
+  @media (min-width: 1095px) and (max-width: 1199px) {
+    width: 200px;
+    height: 200px;
+  }
+  @media (min-width: 1200px) and (max-width: 1365px) {
+    width: 320px;
+    height: 320px !important;
+  }
+  @media (min-width: 1366px) and (max-width: 1800px) {
+    width: 380px;
+    height: 380px !important;
+  }
+
+  // @include breakpoint(2kscreen) {
+  //   width: 530px;
+  //   height: 530px !important;
+  // }
+  @include breakpoint(4kscreen) {
+    width: 680px;
+    height: 680px !important;
+  }
+  img,
+  svg {
+    box-shadow: 0px 0px 10px #00000029;
+    padding: 16px;
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    border-radius: 4px;
+  }
+}
+
+.data-pilot-img.ins-img {
+  @media (min-width: 1095px) and (max-width: 1199px) {
+    width: 290px !important;
+    height: 290px !important;
+  }
+}
+
+.right-slm-blk {
+  height: 380px;
+  @include breakpoint(mobile) {
+    width: calc(100% - 35px) !important;
+  }
+  @include breakpoint(Ipad_port) {
+    height: 250px !important;
+    width: calc(100% - 35px) !important;
+  }
+  @include breakpoint(Ipad_land) {
+    height: 200px !important;
+    width: calc(100% - 35px) !important;
+  }
+}
+.bussiness-hed {
+  margin-top: 50px;
+  @include breakpoint(mobile) {
+    margin-top: 20px;
+  }
+  @include breakpoint(mobile_land) {
+    margin-top: 20px;
+  }
+  @include breakpoint(common_device) {
+    margin-top: 20px;
+  }
+}
+
+.ins-video-blk {
+  position: relative;
+  .heading-sec {
+    // flex: 0 0 calc(100% - 130px);
+    // @include breakpoint(mobile) {
+    //   flex: 0 0 calc(100% - 35px);
+    // }
+    // @include breakpoint(2kscreen) {
+    //   flex: 0 0 calc(100% - 520px);
+    // }
+  }
+  .ripple-icon-video {
+    @include breakpoint(2kscreen) {
+      margin-top: 55px;
+      margin-left: 50px;
+    }
+  }
+}
+
+.market-rec {
+  padding-left: 1rem;
+  @include breakpoint(mobile) {
+    padding-left: 0;
+  }
+  @include breakpoint(common_device) {
+    padding-left: 0;
+  }
+}
+
+.embudhar-img {
+  padding: 5px 1rem !important;
+  img {
+    max-width: 100%;
+  }
+}
+
+// in ipad design style
+.small-devise-structur-show {
+  display: none;
+  @include breakpoint(Ipad_port) {
+    display: flex;
+    margin-top: 30px;
+  }
+}
+.small-devise-structur-hide {
+  display: none;
+}
+
+.inscribee-from-setup {
+  .can-benfit {
+    @include breakpoint(mobile) {
+      padding: 0;
+    }
+  }
+}
+
+.detailed-features {
+  h4 {
+    font-style: normal;
+    font-weight: 500 !important;
+    margin: 0;
+    padding: 0;
+  }
+}
+
+.ins-margin-top {
+  @include breakpoint(mobile) {
+    margin-top: 24px;
+  }
+}

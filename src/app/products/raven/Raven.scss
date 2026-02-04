@@ -1,0 +1,131 @@
+.wave-header {
+  position: relative;
+  padding-top: 8rem !important;
+
+  &::before {
+    content: "";
+    position: absolute;
+    background: url("/public/raven/backgroun-sec.png") no-repeat;
+    width: 340px;
+    height: 230px;
+    background-size: 350px;
+    left: -41px;
+    top: 16px;
+    transform: translate(-80px, -84px);
+  }
+}
+
+.video-blk {
+  position: relative;
+
+  .heading-sec {
+    flex: 0 0 90%;
+  }
+
+  // .ripple-icon-video {
+  //   position: absolute;
+  //   right: 60px;
+  //   top: 10px;
+  //   transform: translate(-10px, 10px);
+
+  //   @include breakpoint(mobile) {
+  //     transform: translate(70px, 10px);
+  //   }
+  //   // @include breakpoint(mobile_land) {
+  //   //   right: -183px;
+  //   //   top: -12px;
+  //   // }
+
+  //   @include breakpoint(common_device) {
+  //     transform: translate(30px, 10px);
+  //   }
+  //   @media (min-width: 1025px) and (max-width: 1094px) {
+  //     transform: translate(45px, 10px);
+  //   }
+
+  //   @include breakpoint(smScreen) {
+  //     transform: translate(50px, 10px);
+  //   }
+
+  //   @include breakpoint(lgLaptop) {
+  //     transform: translate(60px, 10px);
+  //   }
+  //   @include breakpoint(lgScreen) {
+  //     transform: translate(10px, 10px);
+  //   }
+  //   @include breakpoint(2kscreen) {
+  //     transform: translate(-80px, 10px);
+  //   }
+
+  //   @include breakpoint(4kscreen) {
+  //     transform: translate(-80px, 10px);
+  //   }
+  // }
+}
+
+// .arrow-ins {
+//   margin-bottom: 1.5rem !important;
+// }
+
+.other-margin {
+  margin-top: 4.4rem;
+}
+
+.set-row {
+  padding-bottom: 50px;
+}
+.slider-img {
+  @include breakpoint(mobile) {
+    margin-top: 10px;
+  }
+  @include breakpoint(Ipad_port) {
+    margin-top: 30px;
+  }
+}
+
+.image-slider-main {
+  margin: 0 auto;
+}
+
+.widgets-blk {
+  cursor: pointer;
+}
+
+.two-linw-br {
+  h2 {
+    width: 56%;
+    @include breakpoint(mobile) {
+      width: 100%;
+    }
+    @include breakpoint(Ipad_port) {
+      width: 100%;
+    }
+    @include breakpoint(Ipad_land) {
+      width: 75%;
+    }
+    @media (min-width: 1025px) and (max-width: 1094px) {
+      width: 86%;
+    }
+    @media (min-width: 1095px) and (max-width: 1800px) {
+      width: 68%;
+    }
+  }
+}
+
+.product-svg-sec {
+  margin: 0 auto;
+  display: flex !important;
+  justify-content: center;
+  svg {
+    width: 550px;
+
+    max-width: 100%;
+  }
+}
+
+// .other-mb{
+//   @include breakpoint(common_device) {
+//     padding-right:  .2rem !important;
+//     padding-bottom: 4rem ;
+//   }
+// }

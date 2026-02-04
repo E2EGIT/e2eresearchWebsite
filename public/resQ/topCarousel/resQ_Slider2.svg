@@ -1,0 +1,119 @@
+<svg id="resQ_Slider2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 920 480">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f58940"/>
+      <stop offset="1" stop-color="#ed595b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f58840"/>
+      <stop offset="1" stop-color="#ed595b"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1.033" y1="0.5" x2="0.032" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f58b3e"/>
+      <stop offset="1" stop-color="#ed595b"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_9735" data-name="Group 9735" transform="translate(-106 -58)">
+    <g id="Rectangle_1583" data-name="Rectangle 1583" transform="translate(106 58)" fill="#fcfcfc" stroke="#fff" stroke-width="1">
+      <rect width="920" height="480" rx="20" stroke="none"/>
+      <rect x="0.5" y="0.5" width="919" height="479" rx="19.5" fill="none"/>
+    </g>
+    <g id="Group_9732" data-name="Group 9732" transform="translate(-394 -99)">
+      <rect id="Rectangle_1585" data-name="Rectangle 1585" width="361" height="2" transform="translate(573 180)" fill="#cbcbcb"/>
+      <rect id="Rectangle_1586" data-name="Rectangle 1586" width="363" height="2" transform="translate(981 180)" fill="#cbcbcb"/>
+      <g id="new_project" transform="translate(-96)">
+        <text id="Create_New_Project" data-name="Create New Project" transform="translate(597 256)" font-size="15" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Create New Project</tspan></text>
+        <g id="in_progress" transform="translate(-114 -215)">
+          <rect id="Rectangle_1584" data-name="Rectangle 1584" width="62" height="14" rx="7" transform="translate(752 486)" fill="#dae0f7"/>
+          <text id="In_Progress-2" data-name="In Progress" transform="translate(758 496)" fill="#2647c9" font-size="9" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">In Progress</tspan></text>
+        </g>
+        <g id="circle">
+          <circle id="Ellipse_35" data-name="Ellipse 35" cx="24" cy="24" r="24" transform="translate(645 157)" fill="url(#linear-gradient)"/>
+          <g id="Ellipse_36" data-name="Ellipse 36" transform="translate(650 162)" stroke="#fff" stroke-width="1" fill="url(#linear-gradient-2)">
+            <circle cx="19" cy="19" r="19" stroke="none"/>
+            <circle cx="19" cy="19" r="18.5" fill="none"/>
+          </g>
+          <g id="noun-create-6996916" transform="translate(647.428 161.105)">
+            <g id="Group_9727" data-name="Group 9727" transform="translate(12.5 7.895)">
+              <path id="Path_3302" data-name="Path 3302" d="M20.285,24.532l5.174-1.046,9.555-11.371-4.941-4.22L20.514,19.269l-.23,5.264ZM22.5,20.04l7.812-9.292,1.875,1.6-7.817,9.3-1.956.4.088-2.005Z" transform="translate(-18.401 -7.895)" fill="#fff"/>
+              <path id="Path_3303" data-name="Path 3303" d="M12.5,83.332H30.644v2.016H12.5Z" transform="translate(-12.5 -65.082)" fill="#fff"/>
+            </g>
+          </g>
+        </g>
+        <text id="Step_1" data-name="Step 1" transform="translate(655 226)" fill="#898989" font-size="10" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">STEP 1</tspan></text>
+      </g>
+      <g id="DFP_Configuration">
+        <text id="resQ_Configuration" data-name="resQ Configuration" transform="translate(960 256)" font-size="15" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-71.625" y="0">resQ Configuration</tspan></text>
+        <g id="pending" transform="translate(179 -215)">
+          <rect id="Rectangle_1584-2" data-name="Rectangle 1584" width="51" height="14" rx="7" transform="translate(752 486)" fill="#e5e5e6"/>
+          <text id="Pending-2" data-name="Pending" transform="translate(759 496)" fill="#5a5961" font-size="9" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Pending</tspan></text>
+        </g>
+        <text id="Step_2" data-name="Step 2" transform="translate(942 226)" fill="#898989" font-size="10" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">STEP 2</tspan></text>
+        <g id="icom" transform="translate(287)">
+          <circle id="Ellipse_35-2" data-name="Ellipse 35" cx="24" cy="24" r="24" transform="translate(645 157)" fill="#cbcbcb"/>
+          <g id="Ellipse_36-2" data-name="Ellipse 36" transform="translate(650 162)" fill="#cbcbcb" stroke="#8d8d8d" stroke-width="1">
+            <circle cx="19" cy="19" r="19" stroke="none"/>
+            <circle cx="19" cy="19" r="18.5" fill="none"/>
+          </g>
+          <g id="noun-setting-7010542" transform="translate(629.097 146.057)">
+            <path id="Path_3304" data-name="Path 3304" d="M27.774,21.818a.5.5,0,0,1,.288-.288l1.93-.493V16.767l-1.93-.493a.406.406,0,0,1-.288-.288,11.061,11.061,0,0,0-.534-1.314.479.479,0,0,1,0-.411l1.027-1.725L25.228,9.5,23.5,10.524a.373.373,0,0,1-.411,0,7.342,7.342,0,0,0-1.314-.534A.5.5,0,0,1,21.49,9.7l-.452-1.889H16.767l-.493,1.93a.406.406,0,0,1-.288.288,11.061,11.061,0,0,0-1.314.534.479.479,0,0,1-.411,0L12.536,9.538,9.5,12.577,10.524,14.3a.373.373,0,0,1,0,.411,7.342,7.342,0,0,0-.534,1.314.5.5,0,0,1-.288.288l-1.889.452v4.312l1.93.493a.406.406,0,0,1,.288.288,11.061,11.061,0,0,0,.534,1.314.479.479,0,0,1,0,.411L9.538,25.309l3.039,3.039L14.3,27.322a.373.373,0,0,1,.411,0,7.342,7.342,0,0,0,1.314.534.5.5,0,0,1,.288.288l.493,1.93H21.12l.493-1.93a.406.406,0,0,1,.288-.288,11.061,11.061,0,0,0,1.314-.534.479.479,0,0,1,.411,0l1.725,1.027,3.039-3.039-1.027-1.725a.373.373,0,0,1,0-.411,6.54,6.54,0,0,1,.411-1.355ZM18.9,25.679A6.777,6.777,0,1,1,25.679,18.9,6.783,6.783,0,0,1,18.9,25.679Z" transform="translate(21 16)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Extract_Embed_Code" transform="translate(97)">
+        <text id="Extract_Embed_Code-2" data-name="Extract Embed Code" transform="translate(1170 256)" font-size="15" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Extract Embed Code</tspan></text>
+        <g id="pending-3" data-name="pending" transform="translate(469 -215)">
+          <rect id="Rectangle_1584-3" data-name="Rectangle 1584" width="51" height="14" rx="7" transform="translate(752 486)" fill="#e5e5e6"/>
+          <text id="Pending-4" data-name="Pending" transform="translate(759 496)" fill="#5a5961" font-size="9" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">Pending</tspan></text>
+        </g>
+        <text id="Step_3" data-name="Step 3" transform="translate(1232 226)" fill="#898989" font-size="10" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">STEP 3</tspan></text>
+        <g id="Group_9726" data-name="Group 9726" transform="translate(578)">
+          <circle id="Ellipse_35-3" data-name="Ellipse 35" cx="24" cy="24" r="24" transform="translate(645 157)" fill="#cbcbcb"/>
+          <g id="Ellipse_36-3" data-name="Ellipse 36" transform="translate(650 162)" fill="#cbcbcb" stroke="#8d8d8d" stroke-width="1">
+            <circle cx="19" cy="19" r="19" stroke="none"/>
+            <circle cx="19" cy="19" r="18.5" fill="none"/>
+          </g>
+          <g id="noun-embedded-5418710" transform="translate(655.941 170.016)">
+            <g id="Group_9728" data-name="Group 9728" transform="translate(1.059 1.984)">
+              <path id="Path_3305" data-name="Path 3305" d="M83.464,90.518a1.553,1.553,0,0,0-2.171.329l-3.623,4.914a1.553,1.553,0,0,0,0,1.842l3.623,4.922a1.552,1.552,0,1,0,2.5-1.842l-2.943-4,2.943-4a1.553,1.553,0,0,0-.329-2.171Z" transform="translate(-77.368 -87.884)"/>
+              <path id="Path_3306" data-name="Path 3306" d="M87.726,89.747a1.553,1.553,0,0,0-2.041.81l-6.206,14.5a1.551,1.551,0,1,0,2.851,1.223l6.214-14.491a1.553,1.553,0,0,0-.818-2.041Z" transform="translate(-71.588 -89.62)"/>
+              <path id="Path_3307" data-name="Path 3307" d="M82.628,90.521a1.553,1.553,0,0,0-.329,2.171l2.95,4-2.95,4a1.555,1.555,0,1,0,2.507,1.842l3.623-4.922a1.553,1.553,0,0,0,0-1.842l-3.623-4.914a1.553,1.553,0,0,0-2.178-.329Z" transform="translate(-63.883 -87.887)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_9729" data-name="Group 9729" transform="translate(-1132 -99)">
+      <rect id="input" width="127.85" height="50" rx="25" transform="translate(1238 587)" fill="url(#linear-gradient-3)"/>
+      <text id="Cancel" transform="translate(1271 617.837)" fill="#fff" font-size="17" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Cancel</tspan></text>
+    </g>
+    <g id="Rectangle_1587" data-name="Rectangle 1587" transform="translate(106 210)" fill="#fcfcfc" stroke="#e0e0e0" stroke-width="1">
+      <rect width="920" height="261" rx="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="919" height="260" rx="4.5" fill="none"/>
+    </g>
+    <g id="Group_9730" data-name="Group 9730" transform="translate(-399 -221.808)">
+      <g id="Group_79" data-name="Group 79" transform="translate(-489 173.808)">
+        <g id="input-2" data-name="input" transform="translate(1034 322)" fill="#fff" stroke="#ddd" stroke-width="1">
+          <rect width="842" height="50" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="841" height="49" rx="4.5" fill="none"/>
+        </g>
+        <text id="Enter_your_project_code" data-name="Enter your project code" transform="translate(1054 337)" fill="#b2b2b2" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="16">Enter your project code</tspan></text>
+      </g>
+      <text id="Project_Code" data-name="Project Code" transform="translate(545 466.808)" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="16">Project Code</tspan></text>
+    </g>
+    <g id="Group_9731" data-name="Group 9731" transform="translate(-399 -112.808)">
+      <g id="Group_79-2" data-name="Group 79" transform="translate(-489 173.808)">
+        <g id="input-3" data-name="input" transform="translate(1034 322)" fill="#fff" stroke="#ddd" stroke-width="1">
+          <rect width="842" height="50" rx="5" stroke="none"/>
+          <rect x="0.5" y="0.5" width="841" height="49" rx="4.5" fill="none"/>
+        </g>
+        <text id="Enter_your_new_project_name" data-name="Enter your new project name" transform="translate(1054 337)" fill="#b2b2b2" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="16">Enter your new project name</tspan></text>
+      </g>
+      <text id="Project_Name" data-name="Project Name" transform="translate(545 466.808)" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="0" y="16">Project Name</tspan></text>
+    </g>
+    <g id="Group_9736" data-name="Group 9736" transform="translate(-339.851 -99)">
+      <rect id="input-4" data-name="input" width="127.85" height="50" rx="25" transform="translate(1238 587)" fill="url(#linear-gradient-3)"/>
+      <text id="Next" transform="translate(1282 617.837)" fill="#fff" font-size="17" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Next</tspan></text>
+    </g>
+  </g>
+</svg>

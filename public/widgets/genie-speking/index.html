@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="googlebot" content="noindex, nofollow" />
+    <title>HTML5 Genie tool</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="js/jquery.min.js"></script>
+    <script src="js/GenieApp.min.js"></script>
+    <link href="css/geniestyle.css" rel="stylesheet" />
+    <script>
+      var genieTypeVoice = "images/adult-female.png";
+      var geniepaly = "images/adult-female.gif";
+      var genieTypeAudio = "audio/q1.mp3";
+    </script>
+  </head>
+
+  <body>
+    <div class="tool-container">
+      <audio id="audio" autoplay controls>
+        <source src="" type="audio/mpeg" />
+        Sorry your browser is not supported
+      </audio>
+
+      <div class="onOffBtn">
+        <span>Genie Voice</span>
+        <button id="genie-on-off-switch" class="genie-btn-off">OFF</button>
+      </div>
+
+      <div id="genieimg" class="genieimgBlock">
+        <img id="animateimg" src="" />
+      </div>
+    </div>
+  </body>
+</html>

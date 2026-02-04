@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 182 119">
+  <defs>
+    <filter id="Ellipse_11288" x="129" y="2" width="53" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_11288-2" x="103" y="66" width="53" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_11288-3" x="0" y="2" width="53" height="53" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_58107" data-name="Group 58107" transform="translate(-271 -2008.584)">
+    <g id="Group_58102" data-name="Group 58102" transform="translate(-115 -25)">
+      <rect id="Rectangle_33335" data-name="Rectangle 33335" width="67" height="51" transform="translate(420 2097.584)" fill="#f8a89f"/>
+      <circle id="Ellipse_11287" data-name="Ellipse 11287" cx="17.5" cy="17.5" r="17.5" transform="translate(436 2105.584)" fill="#b27594"/>
+      <text id="D" transform="translate(454 2131.584)" fill="#744a60" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-9" y="0">D</tspan></text>
+    </g>
+    <g id="Group_58103" data-name="Group 58103" transform="translate(-94 -89)">
+      <rect id="Rectangle_33335-2" data-name="Rectangle 33335" width="67" height="51" transform="translate(420 2097.584)" fill="#b7f3b4"/>
+      <circle id="Ellipse_11287-2" data-name="Ellipse 11287" cx="17.5" cy="17.5" r="17.5" transform="translate(436 2105.584)" fill="#6cc8a5"/>
+      <text id="B" transform="translate(454 2131.584)" fill="#488e74" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-7" y="0">B</tspan></text>
+    </g>
+    <g id="Group_58104" data-name="Group 58104" transform="translate(-28 -3)">
+      <g transform="matrix(1, 0, 0, 1, 299, 2011.58)" filter="url(#Ellipse_11288)">
+        <circle id="Ellipse_11288-4" data-name="Ellipse 11288" cx="17.5" cy="17.5" r="17.5" transform="translate(138 8)" fill="#8ea9da"/>
+      </g>
+      <text id="C" transform="translate(455 2045.584)" fill="#5a7cac" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-9" y="0">C</tspan></text>
+    </g>
+    <g id="Group_58105" data-name="Group 58105" transform="translate(-54 61)">
+      <g transform="matrix(1, 0, 0, 1, 325, 1947.58)" filter="url(#Ellipse_11288-2)">
+        <circle id="Ellipse_11288-5" data-name="Ellipse 11288" cx="17.5" cy="17.5" r="17.5" transform="translate(112 72)" fill="#8ea9da"/>
+      </g>
+      <text id="E" transform="translate(455 2045.584)" fill="#5a7cac" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-6" y="0">E</tspan></text>
+    </g>
+    <g id="Group_58106" data-name="Group 58106" transform="translate(-157 -3)">
+      <g transform="matrix(1, 0, 0, 1, 428, 2011.58)" filter="url(#Ellipse_11288-3)">
+        <circle id="Ellipse_11288-6" data-name="Ellipse 11288" cx="17.5" cy="17.5" r="17.5" transform="translate(9 8)" fill="#8ea9da"/>
+      </g>
+      <text id="A" transform="translate(455 2045.584)" fill="#5a7cac" font-size="25" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-8" y="0">A</tspan></text>
+    </g>
+  </g>
+</svg>

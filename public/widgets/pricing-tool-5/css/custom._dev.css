@@ -1,0 +1,216 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  user-select: none;
+}
+::-webkit-scrollbar {
+  width: 2px;
+  height: 2px;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.5);
+}
+.respondent-info {
+  padding: 10px 15px;
+  color: #999;
+  font-size: 14px;
+  border: 1px solid #dedede;
+  background: #f5f5f5;
+  text-align: left;
+  width: 90%;
+  margin: 30px auto;
+}
+.title-toll {
+  width: 100%;
+  font-family: Arial;
+  text-align: left;
+  font-size: 16px;
+  border-radius: 4px;
+  padding: 12px;
+  background: #fbfbfb;
+  font-weight: 700;
+  border-bottom: 1px solid #efefef;
+  box-shadow: 0 4px 5px rgb(152 152 152 / 10%);
+  margin-bottom: 25px;
+  color: #999;
+  line-height: 25px;
+}
+.slide_img.slide_text {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  color: black;
+}
+.main-container {
+  border-radius: 3px;
+  width: 615px;
+  margin: auto;
+  height: auto;
+  display: flex;
+  margin-top: 50px;
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: contain;
+}
+.prev-control {
+  width: 90px;
+  height: 90px;
+  /* background-image: url(../images/high_price.png); */
+  background-image: url(../images/low_price.png);
+
+  padding: 35px 23px 0px 23px;
+  opacity: 0.8;
+}
+.prev-control:hover {
+  /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+  opacity: 1;
+}
+
+.next-control {
+  width: 90px;
+  height: 90px;
+  /* background-image: url(../images/low_price.png); */
+  background-image: url(../images/high_price.png);
+
+  padding: 22px 23px 0px 23px;
+  opacity: 0.8;
+}
+.next-control:hover {
+  opacity: 1;
+}
+.slider_container {
+  width: 100%;
+  position: relative;
+  flex: 0 0 40%;
+}
+.slider-controls div {
+  line-height: 18px;
+  font-size: 15px;
+  color: #fff;
+  font-weight: bold;
+}
+.price {
+  background-color: #ccc;
+  text-align: center;
+  padding: 15px;
+  border-radius: 3px;
+  margin-top: 15px;
+  font-size: 25px;
+  width: 100%;
+  color: #42424f;
+}
+div#slider img {
+  width: 100%;
+}
+/* FOR IE Browser */
+@media screen and (min-width: 0\0) {
+}
+
+.outputData_Container {
+  width: 985px;
+  margin: 50px auto;
+}
+.outputData_Container input {
+  border: solid 1px #ccc;
+  height: 30px;
+  width: 100%;
+  border-radius: 3px;
+  outline: none;
+  padding-left: 8px;
+}
+.outputData_Container input:nth-child(2) {
+  width: 300px;
+  margin-top: 15px;
+}
+
+/* responsiveness css */
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .main-container {
+    width: 90%;
+    height: auto;
+    display: block;
+  }
+  .slider {
+    width: 100% !important;
+    height: 328px !important;
+  }
+  .outputData_Container {
+    width: 90%;
+    margin: 20px auto;
+  }
+  .outputData_Container input,
+  .outputData_Container input:nth-child(2) {
+    width: calc(100% - 13px);
+  }
+  .slider-controls {
+    right: 18px !important;
+    height: auto !important;
+    width: 92% !important;
+    bottom: 16px;
+  }
+  .slide_img {
+    height: 175px !important;
+    background-size: contain;
+  }
+  .slider-controls svg {
+    width: 60px;
+  }
+  .slider-controls .prev-control {
+    left: 15px;
+    position: absolute;
+    bottom: 0;
+  }
+  .auto-control {
+    display: none;
+  }
+  .slider-content-wrapper {
+    height: 219px !important;
+  }
+  .price {
+    width: 257px;
+    padding: 5px;
+    font-size: 20px;
+    margin: 10px auto;
+  }
+  .slider-controls .next-control {
+    right: 15px;
+  }
+  .slider_container {
+    width: 280px;
+    margin: auto;
+  }
+  .slider-controls div {
+    width: 60px;
+    height: 60px;
+    background-size: cover;
+    font-size: 11px;
+    line-height: 13px;
+  }
+  .prev-control {
+    padding: 23px 15px 0px 15px;
+  }
+  .next-control {
+    padding: 14px 15px 0px 15px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .main-container {
+    height: auto;
+    display: block;
+  }
+  .outputData_Container {
+    width: 90%;
+    margin: 20px auto;
+  }
+}
+/* END responsiveness css */

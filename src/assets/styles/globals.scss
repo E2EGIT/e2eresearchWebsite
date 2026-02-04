@@ -1,0 +1,23 @@
+@import "./shared/Variable.scss";
+@import "./shared/mixins.scss";
+@import "./shared/Common.scss";
+@import "./shared/No-found.scss";
+
+@import "../../app/Home.scss";
+
+@import "../../app/about/AboutUs.scss";
+@import "../../app/careers/Careers.scss";
+@import "../../app/contact/ContactUs.scss";
+@import "../../app/policies/Policies.scss";
+
+@import "../../Component/Sidebar/Sidebar.scss";
+@import "../../Component/widgets/BreadCrumb/BreadCrumb.scss";
+@import "../../Component/Search/Search.scss";
+@import "../../Component/Testimonials/homeSider.scss";
+@import "../../Component/ProductCarousel/ProductCarousel.scss";
+@import "../../Component/GetStarted/GetStarted.scss";
+
+@import "../../Component/CustomPopup/CustomPopup.scss";
+
+// @import url("aos/dist/aos.css");
+@import "react-toastify/dist/ReactToastify.css";

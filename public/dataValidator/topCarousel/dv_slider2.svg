@@ -1,0 +1,110 @@
+<svg id="DV_Slider2" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 920 480">
+  <g id="Group_58451" data-name="Group 58451" transform="translate(-969 -49)">
+    <g id="Group_58429" data-name="Group 58429" transform="translate(939)">
+      <rect id="Rectangle_33676" data-name="Rectangle 33676" width="920" height="480" rx="5" transform="translate(30 49)"/>
+      <rect id="Rectangle_33677" data-name="Rectangle 33677" width="920" height="55" transform="translate(30 132)" fill="#131313"/>
+      <text id="OPG_TEST_E2E" data-name="OPG TEST E2E" transform="translate(218 170)" fill="#fff" font-size="21" font-family="Poppins-Regular, Poppins"><tspan x="-132.951" y="0">OPG TEST E2E</tspan></text>
+      <rect id="Rectangle_33678" data-name="Rectangle 33678" width="192" height="38" rx="4" transform="translate(733 140)" fill="#f3b840"/>
+      <text id="Go_to_the_Dashboard" data-name="Go to the Dashboard" transform="translate(829 165)" fill="#1a1a1a" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-83.344" y="0">Go to the Dashboard</tspan></text>
+    </g>
+    <g id="Group_58430" data-name="Group 58430">
+      <line id="Line_1" data-name="Line 1" x2="22.167" transform="translate(1834.5 78.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_2" data-name="Line 2" x2="22.167" transform="translate(1834.5 87.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_3" data-name="Line 3" x2="22.167" transform="translate(1834.5 96.5)" fill="none" stroke="#707070" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="Group_58431" data-name="Group 58431" transform="translate(992.5 154)">
+      <line id="Line_1-2" data-name="Line 1" x2="1.979" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_2-2" data-name="Line 2" x2="1.979" transform="translate(0 7.125)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_3-2" data-name="Line 3" x2="1.979" transform="translate(0 14.25)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <g id="data_validator" transform="translate(994.121 68)">
+      <g id="Group_4823" data-name="Group 4823" transform="translate(57.667 7.237)">
+        <path id="Path_13634" data-name="Path 13634" d="M530.649,144.994h-6.79V166.02H521.1V144.994H514.33V142.5h16.319Z" transform="translate(-514.33 -142.501)" fill="#ffb501"/>
+        <path id="Path_13635" data-name="Path 13635" d="M547.871,166.02H544.82l-2.493-6.593h-9.971l-2.345,6.593h-3.068l9.02-23.519h2.854Zm-6.446-9.07-3.691-10.021a9.684,9.684,0,0,1-.359-1.575h-.066a8.735,8.735,0,0,1-.378,1.575l-3.657,10.021Z" transform="translate(-509.655 -142.501)" fill="#ffb501"/>
+      </g>
+      <g id="Group_4824" data-name="Group 4824" transform="translate(39.007 33.186)">
+        <path id="Path_13636" data-name="Path 13636" d="M508.664,169.712h-1.158l-.947-2.293h-3.787l-.891,2.293h-1.165l3.427-8.18h1.083Zm-2.448-3.154-1.4-3.486a3.234,3.234,0,0,1-.137-.548h-.025a2.737,2.737,0,0,1-.144.548l-1.387,3.486Z" transform="translate(-500.716 -161.396)" fill="#ffb501"/>
+        <path id="Path_13637" data-name="Path 13637" d="M512.107,169.712h-4.633v-8.18h1.046v7.314h3.587Z" transform="translate(-498.211 -161.396)" fill="#ffb501"/>
+        <path id="Path_13638" data-name="Path 13638" d="M514.009,161.532v.821h-.872v6.538h.872v.821h-2.791v-.821h.872v-6.538h-.872v-.821Z" transform="translate(-496.824 -161.396)" fill="#ffb501"/>
+        <path id="Path_13639" data-name="Path 13639" d="M514.331,169.712v-8.18H516.8q4.72,0,4.72,3.987a3.852,3.852,0,0,1-1.312,3.044,5.133,5.133,0,0,1-3.509,1.149Zm1.047-7.312v6.446h1.331a4,4,0,0,0,2.736-.862,3.082,3.082,0,0,0,.977-2.441q0-3.144-3.65-3.143Z" transform="translate(-495.67 -161.396)" fill="#ffb501"/>
+        <path id="Path_13640" data-name="Path 13640" d="M528.05,169.712h-1.157l-.948-2.293h-3.786l-.891,2.293H520.1l3.427-8.18h1.083Zm-2.448-3.154-1.4-3.486a3.1,3.1,0,0,1-.137-.548h-.025a2.845,2.845,0,0,1-.144.548l-1.388,3.486Z" transform="translate(-493.53 -161.396)" fill="#ffb501"/>
+        <path id="Path_13641" data-name="Path 13641" d="M532.39,162.4h-2.58v7.312h-1.046V162.4h-2.573v-.868h6.2Z" transform="translate(-491.274 -161.396)" fill="#ffb501"/>
+        <path id="Path_13642" data-name="Path 13642" d="M535.495,169.886a4.1,4.1,0,0,1-3.043-1.147,4.04,4.04,0,0,1-1.143-2.983,4.034,4.034,0,0,1,4.335-4.323,4,4,0,0,1,2.98,1.14,4.054,4.054,0,0,1,1.132,2.983,4.292,4.292,0,0,1-1.16,3.166A4.183,4.183,0,0,1,535.495,169.886Zm.074-7.586a3,3,0,0,0-2.285.929,3.854,3.854,0,0,0-.023,4.874,2.907,2.907,0,0,0,2.234.922,3.071,3.071,0,0,0,2.318-.879,3.4,3.4,0,0,0,.846-2.459,3.534,3.534,0,0,0-.822-2.5A2.941,2.941,0,0,0,535.569,162.3Z" transform="translate(-489.377 -161.433)" fill="#ffb501"/>
+        <path id="Path_13643" data-name="Path 13643" d="M545.157,169.712h-1.246l-1.5-2.293a4.913,4.913,0,0,0-.4-.544,2.177,2.177,0,0,0-.395-.369,1.443,1.443,0,0,0-.437-.208,1.93,1.93,0,0,0-.525-.066H539.8v3.48h-1.047v-8.18h2.666a4.14,4.14,0,0,1,1.08.134,2.45,2.45,0,0,1,.859.408,1.9,1.9,0,0,1,.57.681,2.3,2.3,0,0,1,.066,1.739,2,2,0,0,1-.4.636,2.4,2.4,0,0,1-.622.477,3.318,3.318,0,0,1-.82.3v.023a1.864,1.864,0,0,1,.7.485,3.59,3.59,0,0,1,.3.362c.1.134.206.292.326.47ZM539.8,162.4v2.966h1.42a2.324,2.324,0,0,0,.725-.108,1.711,1.711,0,0,0,.576-.311,1.413,1.413,0,0,0,.38-.5,1.533,1.533,0,0,0,.137-.659,1.232,1.232,0,0,0-.463-1.024,2.123,2.123,0,0,0-1.342-.367Z" transform="translate(-486.618 -161.396)" fill="#ffb501"/>
+      </g>
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M16.085,22.569H13.157l-2.392-6.327H0l1.082-2.376H9.9L6.358,4.25A8.32,8.32,0,0,1,6.05,2.959L7.4,0l8.686,22.568ZM3.821,7.861h0L5.8,3.505a6.163,6.163,0,0,1-.213.744Z" transform="translate(43.825 7.904)" fill="#ffb501"/>
+      <path id="Subtraction_2" data-name="Subtraction 2" d="M12.516,47.232H0V0H13.042A37.463,37.463,0,0,1,23.965,1.439a20.05,20.05,0,0,1,7.8,4.317,17.939,17.939,0,0,1,4.681,7.194,29.736,29.736,0,0,1,1.56,10.072,31.362,31.362,0,0,1-.214,3.709q-1.379,1.877-2.756,3.756c-.33.45-.577.643-.828.643-.23,0-.472-.163-.784-.528q-.871-1.019-1.744-2.033a26.2,26.2,0,0,0,.53-5.416c0-6.021-1.623-10.6-4.825-13.611S19.315,5.006,12.912,5.006H5.534V42.225h7.047c6.163,0,11.028-1.673,14.46-4.974.136-.13.272-.267.405-.4q1.217,2.406,2.436,4.812a22.962,22.962,0,0,1-7.7,4.18A31.681,31.681,0,0,1,12.516,47.232Z" transform="translate(0 0)" fill="#fff"/>
+      <path id="Path_13648" data-name="Path 13648" d="M499.528,179.772c-.646.019-1.151-.447-1.536-1.335q-3.285-7.572-6.557-15.159a2.518,2.518,0,0,1-.021-2.151c.3-.617.762-.676,1.183-.111,2.122,2.839,4.246,5.67,6.352,8.549.34.463.54.421.848-.07,3.62-5.772,11.892-20.427,15.52-26.178.567-.9,1.292-.628,1.428.621a3.557,3.557,0,0,1-.24,1.563c-1.867,4.211-8.4,17.288-10.285,21.467q-2.529,5.6-5.055,11.21C500.723,179.16,500.212,179.813,499.528,179.772Z" transform="translate(-465.242 -135.158)" fill="#ffb501"/>
+    </g>
+    <g id="Group_58432" data-name="Group 58432" transform="translate(998.833 154)">
+      <line id="Line_1-3" data-name="Line 1" x2="12.667" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_2-3" data-name="Line 2" x2="12.667" transform="translate(0 7.125)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+      <line id="Line_3-3" data-name="Line 3" x2="12.667" transform="translate(0 14.25)" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="2"/>
+    </g>
+    <path id="Rectangle_33679" data-name="Rectangle 33679" d="M0,0H290a0,0,0,0,1,0,0V345a0,0,0,0,1,0,0H5a5,5,0,0,1-5-5V0A0,0,0,0,1,0,0Z" transform="translate(969 184)" fill="#232323"/>
+    <rect id="Rectangle_33680" data-name="Rectangle 33680" width="290" height="345" transform="translate(1284 184)" fill="#232323"/>
+    <path id="Rectangle_33681" data-name="Rectangle 33681" d="M0,0H290a0,0,0,0,1,0,0V340a5,5,0,0,1-5,5H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(1599 184)" fill="#232323"/>
+    <rect id="Rectangle_33682" data-name="Rectangle 33682" width="25" height="345" transform="translate(1259 184)" fill="#343642"/>
+    <rect id="Rectangle_33683" data-name="Rectangle 33683" width="25" height="345" transform="translate(1574 184)" fill="#343642"/>
+    <path id="_8666803_folder_documents_icon" data-name="8666803_folder_documents_icon" d="M14.5,14.778a1.375,1.375,0,0,1-1.25,1.472h-10A1.375,1.375,0,0,1,2,14.778V4.472A1.375,1.375,0,0,1,3.25,3H6.375l1.25,2.208H13.25A1.375,1.375,0,0,1,14.5,6.681Z" transform="translate(982.5 200.5)" fill="#d8d8d8"/>
+    <text id="responseid" transform="translate(1004 214)" fill="#676767" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">responseid</tspan></text>
+    <path id="_8666803_folder_documents_icon-2" data-name="8666803_folder_documents_icon" d="M14.5,14.778a1.375,1.375,0,0,1-1.25,1.472h-10A1.375,1.375,0,0,1,2,14.778V4.472A1.375,1.375,0,0,1,3.25,3H6.375l1.25,2.208H13.25A1.375,1.375,0,0,1,14.5,6.681Z" transform="translate(982.5 225.5)" fill="#d8d8d8"/>
+    <text id="respid" transform="translate(1004 239)" fill="#676767" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">respid</tspan></text>
+    <path id="_8666803_folder_documents_icon-3" data-name="8666803_folder_documents_icon" d="M14.5,14.778a1.375,1.375,0,0,1-1.25,1.472h-10A1.375,1.375,0,0,1,2,14.778V4.472A1.375,1.375,0,0,1,3.25,3H6.375l1.25,2.208H13.25A1.375,1.375,0,0,1,14.5,6.681Z" transform="translate(982.5 251.5)" fill="#d8d8d8"/>
+    <text id="status" transform="translate(1004 265)" fill="#676767" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">status</tspan></text>
+    <path id="_8666803_folder_documents_icon-4" data-name="8666803_folder_documents_icon" d="M14.5,14.778a1.375,1.375,0,0,1-1.25,1.472h-10A1.375,1.375,0,0,1,2,14.778V4.472A1.375,1.375,0,0,1,3.25,3H6.375l1.25,2.208H13.25A1.375,1.375,0,0,1,14.5,6.681Z" transform="translate(982.5 278.5)" fill="#d8d8d8"/>
+    <text id="interview" transform="translate(1004 292)" fill="#676767" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">interview</tspan></text>
+    <path id="_8666803_folder_documents_icon-5" data-name="8666803_folder_documents_icon" d="M14.5,14.778a1.375,1.375,0,0,1-1.25,1.472h-10A1.375,1.375,0,0,1,2,14.778V4.472A1.375,1.375,0,0,1,3.25,3H6.375l1.25,2.208H13.25A1.375,1.375,0,0,1,14.5,6.681Z" transform="translate(982.5 305.5)" fill="#d8d8d8"/>
+    <text id="ip" transform="translate(1004 319)" fill="#676767" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">ip</tspan></text>
+    <path id="_8666803_folder_documents_icon-6" data-name="8666803_folder_documents_icon" d="M14.5,14.778a1.375,1.375,0,0,1-1.25,1.472h-10A1.375,1.375,0,0,1,2,14.778V4.472A1.375,1.375,0,0,1,3.25,3H6.375l1.25,2.208H13.25A1.375,1.375,0,0,1,14.5,6.681Z" transform="translate(982.5 331.5)" fill="#d8d8d8"/>
+    <text id="version" transform="translate(1004 345)" fill="#676767" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">version</tspan></text>
+    <path id="_8666803_folder_documents_icon-7" data-name="8666803_folder_documents_icon" d="M14.5,14.778a1.375,1.375,0,0,1-1.25,1.472h-10A1.375,1.375,0,0,1,2,14.778V4.472A1.375,1.375,0,0,1,3.25,3H6.375l1.25,2.208H13.25A1.375,1.375,0,0,1,14.5,6.681Z" transform="translate(982.5 358.5)" fill="#d8d8d8"/>
+    <text id="st" transform="translate(1004 372)" fill="#676767" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">st</tspan></text>
+    <path id="_8666803_folder_documents_icon-8" data-name="8666803_folder_documents_icon" d="M14.5,14.778a1.375,1.375,0,0,1-1.25,1.472h-10A1.375,1.375,0,0,1,2,14.778V4.472A1.375,1.375,0,0,1,3.25,3H6.375l1.25,2.208H13.25A1.375,1.375,0,0,1,14.5,6.681Z" transform="translate(982.5 386.5)" fill="#d8d8d8"/>
+    <text id="s0" transform="translate(1004 400)" fill="#676767" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">s0</tspan></text>
+    <path id="_8666803_folder_documents_icon-9" data-name="8666803_folder_documents_icon" d="M14.5,14.778a1.375,1.375,0,0,1-1.25,1.472h-10A1.375,1.375,0,0,1,2,14.778V4.472A1.375,1.375,0,0,1,3.25,3H6.375l1.25,2.208H13.25A1.375,1.375,0,0,1,14.5,6.681Z" transform="translate(982.5 413.5)" fill="#d8d8d8"/>
+    <text id="qintro" transform="translate(1004 427)" fill="#676767" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">qintro</tspan></text>
+    <path id="_8666803_folder_documents_icon-10" data-name="8666803_folder_documents_icon" d="M14.5,14.778a1.375,1.375,0,0,1-1.25,1.472h-10A1.375,1.375,0,0,1,2,14.778V4.472A1.375,1.375,0,0,1,3.25,3H6.375l1.25,2.208H13.25A1.375,1.375,0,0,1,14.5,6.681Z" transform="translate(982.5 440.5)" fill="#d8d8d8"/>
+    <text id="qae" transform="translate(1004 454)" fill="#676767" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">qae</tspan></text>
+    <path id="_8666803_folder_documents_icon-11" data-name="8666803_folder_documents_icon" d="M14.5,14.778a1.375,1.375,0,0,1-1.25,1.472h-10A1.375,1.375,0,0,1,2,14.778V4.472A1.375,1.375,0,0,1,3.25,3H6.375l1.25,2.208H13.25A1.375,1.375,0,0,1,14.5,6.681Z" transform="translate(982.5 467.5)" fill="#d8d8d8"/>
+    <text id="qitx1" transform="translate(1004 481)" fill="#676767" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">qitx1</tspan></text>
+    <path id="_8666803_folder_documents_icon-12" data-name="8666803_folder_documents_icon" d="M14.5,14.778a1.375,1.375,0,0,1-1.25,1.472h-10A1.375,1.375,0,0,1,2,14.778V4.472A1.375,1.375,0,0,1,3.25,3H6.375l1.25,2.208H13.25A1.375,1.375,0,0,1,14.5,6.681Z" transform="translate(982.5 494.5)" fill="#d8d8d8"/>
+    <text id="qi1xde" transform="translate(1004 508)" fill="#676767" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">qi1xde</tspan></text>
+    <rect id="Rectangle_33684" data-name="Rectangle 33684" width="7" height="339" rx="3.5" transform="translate(1250 187)" fill="#6f6f6d"/>
+    <rect id="Rectangle_33685" data-name="Rectangle 33685" width="5" height="188" rx="2.5" transform="translate(1251 187)" fill="#929292"/>
+    <text id="_1_2_3_4_5_6_7_8_9_10_11_12_13_14_15_16" data-name="1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16" transform="translate(1612 210)" fill="#c8c8c8" font-size="12" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">1</tspan><tspan x="0" y="21">2</tspan><tspan x="0" y="42">3</tspan><tspan x="0" y="63">4</tspan><tspan x="0" y="84">5</tspan><tspan x="0" y="105">6</tspan><tspan x="0" y="126">7</tspan><tspan x="0" y="147">8</tspan><tspan x="0" y="168">9</tspan><tspan x="0" y="189">10</tspan><tspan x="0" y="210">11</tspan><tspan x="0" y="231">12</tspan><tspan x="0" y="252">13</tspan><tspan x="0" y="273">14</tspan><tspan x="0" y="294">15</tspan><tspan x="0" y="315">16</tspan></text>
+    <rect id="Rectangle_33686" data-name="Rectangle 33686" width="7" height="339" rx="3.5" transform="translate(1877 187)" fill="#6f6f6d"/>
+    <rect id="Rectangle_33687" data-name="Rectangle 33687" width="5" height="188" rx="2.5" transform="translate(1878 187)" fill="#929292"/>
+    <text id="var_list_obj.GetAllRecords_for_int_i_0_i_list.Rows.Count_i_obj.initialize_i_obj.f_b5b_.NUMGValid_c0_1_1:6_obj.f_q16_.OEValid_obj.f_q16_.OEValid_Section_j_J1_q0W1" data-name="var list = obj.GetAllRecords();
+for (int i = 0; i &lt; list.Rows.Count; i++)
+{
+ obj.initialize(i);
+ obj.f(&quot;b5b&quot;).NUMGValid(&quot;{c0=1}&quot;,&quot;1:6&quot;
+}
+
+//obj.f(&quot;q16&quot;).OEValid(
+
+//obj.f(&quot;q16&quot;).OEValid(
+
+
+
+// Section j
+// J1
+// q0W1" transform="translate(1640 210)" fill="#c8c8c8" font-size="14" font-family="Helvetica"><tspan x="0" y="0">var list = obj.GetAllRecords</tspan><tspan y="0" fill="#f3b840">()</tspan><tspan y="0">;</tspan><tspan fill="#3566ae"><tspan x="0" y="21">for</tspan><tspan y="21" xml:space="preserve" fill="#f3b840"> (</tspan><tspan y="21">int </tspan><tspan y="21" fill="#c8c8c8">i = 0; i &lt; list.Rows.Count; i++</tspan><tspan y="21" fill="#f3b840">)</tspan></tspan><tspan fill="#f3b840"><tspan x="0" y="42">{</tspan></tspan><tspan x="0" y="63" xml:space="preserve"> obj.initialize</tspan><tspan y="63" fill="#be38a3">(</tspan><tspan y="63">i</tspan><tspan y="63" fill="#be38a3">)</tspan><tspan y="63">;</tspan><tspan x="0" y="84" xml:space="preserve"> obj.f</tspan><tspan y="84" fill="#be38a3">(</tspan><tspan y="84" fill="#f3b840">&quot;b5b&quot;</tspan><tspan y="84" fill="#be38a3">)</tspan><tspan y="84">.NUMGValid</tspan><tspan y="84" fill="#be38a3">(</tspan><tspan y="84" fill="#f3b840">&quot;{c0=1}&quot;,&quot;1:6&quot;</tspan><tspan y="84"></tspan><tspan fill="#f3b840"><tspan x="0" y="105">}</tspan><tspan x="0" y="126"></tspan><tspan x="0" y="147">//obj.f(&quot;q16&quot;).OEValid(</tspan><tspan x="0" y="168"></tspan><tspan x="0" y="189">//obj.f(&quot;q16&quot;).OEValid(</tspan><tspan x="0" y="210"></tspan><tspan x="0" y="231"></tspan><tspan x="0" y="252"></tspan><tspan x="0" y="273">// Section j</tspan><tspan x="0" y="294">// J1</tspan><tspan x="0" y="315">// q0W1</tspan></tspan></text>
+  </g>
+</svg>

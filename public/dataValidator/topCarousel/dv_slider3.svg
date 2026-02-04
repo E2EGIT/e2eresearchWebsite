@@ -1,0 +1,49 @@
+<svg id="DV_Slider3" xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 920 480">
+  <g id="Slider_3" data-name="Slider 3" transform="translate(-30 -49)">
+    <rect id="Rectangle_33688" data-name="Rectangle 33688" width="920" height="480" rx="5" transform="translate(30 49)" opacity="0.69"/>
+    <g id="Group_58427" data-name="Group 58427">
+      <rect id="Rectangle_33662" data-name="Rectangle 33662" width="234" height="46" transform="translate(716 151)" fill="#ffb501"/>
+      <text id="Go_to_the_Dashboard" data-name="Go to the Dashboard" transform="translate(833 181)" fill="#171717" font-size="20" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="-104.45" y="0">Go to the Dashboard</tspan></text>
+      <text id="TEST" transform="translate(63 199)" fill="#fff" font-size="30" font-family="Poppins-Regular, Poppins"><tspan x="-31.77" y="0">TEST</tspan></text>
+      <text id="V1.5" transform="translate(58 107)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-13.08" y="0">V1.5</tspan></text>
+      <text id="var_list_obj.GetAllRecords_for_int_i_0_i_list.Rows.Count_i_obj.initialize_i_obj.f_b5b_.NUMGValid_c0_1_1:6_6_6_0_99_" data-name="var list = obj.GetAllRecords();
+for (int i = 0; i &lt; list.Rows.Count; i++)
+{
+ obj.initialize(i);
+ obj.f(&quot;b5b&quot;).NUMGValid(&quot;{c0=1}&quot;,&quot;1:6&quot;,6,6,0,99);
+}" transform="translate(950 269)" fill="#fff" font-size="15" font-family="Poppins-Regular, Poppins"><tspan x="-210.27" y="0">var list = obj.GetAllRecords();</tspan><tspan x="-250.23" y="30">for (int i = 0; i &lt; list.Rows.Count; i++)</tspan><tspan x="-5.565" y="60">{</tspan><tspan x="-107.565" y="90" xml:space="preserve"> obj.initialize(i);</tspan><tspan x="-321.06" y="120" xml:space="preserve"> obj.f(&quot;b5b&quot;).NUMGValid(&quot;{c0=1}&quot;,&quot;1:6&quot;,6,6,0,99);</tspan><tspan x="-5.535" y="150">}</tspan></text>
+    </g>
+    <rect id="Rectangle_33663" data-name="Rectangle 33663" width="920" height="480" rx="5" transform="translate(30 49)" opacity="0.69"/>
+    <g id="Group_58428" data-name="Group 58428" transform="translate(-2 -1)">
+      <rect id="Rectangle_33664" data-name="Rectangle 33664" width="836" height="457" rx="5" transform="translate(74 61)" fill="#313131"/>
+      <rect id="Rectangle_33665" data-name="Rectangle 33665" width="836" height="68" rx="5" transform="translate(74 61)" fill="#434343"/>
+      <path id="Rectangle_33666" data-name="Rectangle 33666" d="M5,0H708a5,5,0,0,1,5,5V57a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V5A5,5,0,0,1,5,0Z" transform="translate(114 177)" fill="#434343"/>
+      <text id="Summary_Output" data-name="Summary Output" transform="translate(311 100)" fill="#fff" font-size="25" font-family="Poppins-Regular, Poppins"><tspan x="-215.225" y="0">Summary Output</tspan></text>
+      <text id="Overall_Summary" data-name="Overall Summary" transform="translate(274 168)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins" opacity="0.34"><tspan x="-155.646" y="0">Overall Summary</tspan></text>
+      <text id="Total" transform="translate(174 211)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-44.082" y="0">Total</tspan></text>
+      <text id="Accepted" transform="translate(386 211)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-87.714" y="0">Accepted</tspan></text>
+      <text id="Rejected" transform="translate(592 211)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-78.588" y="0">Rejected</tspan></text>
+      <text id="Warning" transform="translate(790 211)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-76.122" y="0">Warning</tspan></text>
+      <path id="_211651_close_round_icon" data-name="211651_close_round_icon" d="M77.54,75.685l-4.76-4.76,4.76-4.76a1.312,1.312,0,0,0-1.855-1.855l-4.76,4.76-4.76-4.76a1.312,1.312,0,0,0-1.855,1.855l4.76,4.76-4.76,4.76a1.312,1.312,0,0,0,1.855,1.855l4.76-4.76,4.76,4.76a1.312,1.312,0,0,0,1.855-1.855Z" transform="translate(805.075 25.075)" fill="#fff"/>
+      <rect id="Rectangle_33668" data-name="Rectangle 33668" width="713" height="1" transform="translate(114 287)" fill="#e9e9e9" opacity="0.24"/>
+      <text id="_109" data-name="109" transform="translate(159 267)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-27.162" y="0">109</tspan></text>
+      <text id="_109-2" data-name="109" transform="translate(350 267)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-27.162" y="0">109</tspan></text>
+      <text id="_0" data-name="0" transform="translate(559 267)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-11.052" y="0">0</tspan></text>
+      <text id="_0-2" data-name="0" transform="translate(762 267)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-11.052" y="0">0</tspan></text>
+      <text id="Rejection_Summary" data-name="Rejection Summary" transform="translate(294 354)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins" opacity="0.34"><tspan x="-174.978" y="0">Rejection Summary</tspan></text>
+      <rect id="Rectangle_33669" data-name="Rectangle 33669" width="713" height="83" transform="translate(114 362)" fill="#434343"/>
+      <text id="Question" transform="translate(225 408)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-80.316" y="0">Question</tspan></text>
+      <text id="Rejection_Count" data-name="Rejection
+Count" transform="translate(417 396)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-41.319" y="0">Rejection</tspan><tspan x="-27.504" y="30">Count</tspan></text>
+      <text id="Respondent_Id_s" data-name="Respondent Id&apos;s" transform="translate(686 408)" fill="#fff" font-size="18" font-family="Poppins-Regular, Poppins"><tspan x="-70.596" y="0">Respondent Id&apos;s</tspan></text>
+      <rect id="Rectangle_33670" data-name="Rectangle 33670" width="836" height="77" rx="5" transform="translate(74 443)" fill="#434343"/>
+      <rect id="Rectangle_33671" data-name="Rectangle 33671" width="836" height="1" transform="translate(74 443)" fill="#e9e9e9" opacity="0.13"/>
+      <rect id="Rectangle_33672" data-name="Rectangle 33672" width="235" height="56" rx="5" transform="translate(413 456)" fill="#f3b840"/>
+      <rect id="Rectangle_33673" data-name="Rectangle 33673" width="235" height="56" rx="5" transform="translate(662 456)" fill="#f3b840"/>
+      <text id="Download_Excel" data-name="Download Excel" transform="translate(531 491)" fill="#1a1a1a" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="-78.1" y="0">Download Excel</tspan></text>
+      <text id="Download_Text" data-name="Download Text" transform="translate(780 491)" fill="#1a1a1a" font-size="20" font-family="Poppins-Regular, Poppins"><tspan x="-73.41" y="0">Download Text</tspan></text>
+      <rect id="Rectangle_33674" data-name="Rectangle 33674" width="21" height="324" transform="translate(889 129)" fill="#5a5a5a"/>
+      <rect id="Rectangle_33675" data-name="Rectangle 33675" width="11" height="151" transform="translate(894 134)" fill="#7b7b7b"/>
+    </g>
+  </g>
+</svg>

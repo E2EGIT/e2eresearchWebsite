@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 212.848 104">
+  <g id="Text_Highlighters" transform="translate(-9.5 -12.753)" style="mix-blend-mode: luminosity;isolation: isolate">
+    <g id="Group_215" data-name="Group 215" transform="translate(10 12.753)">
+      <g id="Word-Highlighter" transform="translate(0)">
+        <g id="Group_177" data-name="Group 177" transform="translate(0 24.411)">
+          <rect id="Rectangle_2" data-name="Rectangle 2" width="211.848" height="29.686" transform="translate(0 0)" fill="#6cc959" stroke="#4aad52" stroke-width="1"/>
+        </g>
+        <text id="Our_new_strawberry_flavor_is_made_with_real_juice" data-name="Our newstrawberry flavoris made withreal juice" transform="translate(103.33 17)" fill="#7a7a7a" font-size="23" font-family="Calibri-Bold, Calibri" font-weight="700"><tspan x="-41" y="0">Our new</tspan><tspan y="0" fill="#161616"></tspan><tspan fill="#fff" font-size="27"><tspan x="-96" y="27">strawberry flavor</tspan><tspan y="27" font-size="23"></tspan></tspan><tspan x="-61" y="54">is made with</tspan><tspan x="-43" y="81">real juice</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Head Heart Open Ends</title>
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <link href="css/custom.min.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="js/custom.min.js"></script>
+    <script>
+      var questionText =
+        "How did the commercial make you feel?|What did the commercial remind you of?|What actions will you take after watching the commercial?|What facts do you remember from the commercial?";
+      var preCode = "100|200|300|400";
+      var backpunch = false;
+      var backpunchData1 = "100^first input bo";
+      var backpunchData2 = "200^second input box";
+      var backpunchData3 = "300^thirdInput box";
+      var backpunchData4 = "400^fourth input box";
+      // Dynamic changes
+      // for Statements
+      var StatementsTextColor = "";
+      var StatementsFontFamily = "";
+      var StatementsFontSize = "";
+      var StatementsFontWeight = "";
+
+      function output(output1, output2, output3, output4, flag) {
+        $("#output1").val(output1);
+        $("#output2").val(output2);
+        $("#output3").val(output3);
+        $("#output4").val(output4);
+        $("#flag").val(flag);
+      }
+    </script>
+  </head>
+  <body>
+    <div class="question_container">
+      Please share your thoughts and opinions about the commercial you just
+      watched.
+    </div>
+    <div class="main-container"></div>
+
+    <div class="output-container">
+      <input type="hidden" class="output_field" id="output1" readonly />
+      <input type="hidden" class="output_field" id="output2" readonly />
+      <input type="hidden" class="output_field" id="output3" readonly />
+      <input type="hidden" class="output_field" id="output4" readonly />
+      <input type="hidden" class="flag_field" id="flag" readonly />
+    </div>
+  </body>
+</html>
